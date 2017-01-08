@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
@@ -24,3 +23,11 @@
 **Thoughts**: I was surprised at how easy it was to incororate MathJax. When I found out about it yesterday, I though it would have taken me an hour to figure out how to use. However, it only actually took about 15 minutes!
 
 **Link(s) to work** http://codepen.io/frmysantana/pen/KapyMR
+
+### Day 3: January 7, 2016
+
+**Today's Progress**: Read through many different CSS options and tinkered with the CSS on my tribute page. Also I was unkowingly working on the copy of that tribute that I had saved for day 2, so that page is now lost.
+
+**Thoughts**: Without having a clear design on paper or in my head, it's like I'm throwing paint at a wall and cleaning up what I don't like. However, I'm leaning towards seeing that as a positive, at least for now.
+
+**Link(s) to work**:http://codepen.io/frmysantana/pen/KapyMR
