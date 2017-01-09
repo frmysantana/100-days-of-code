@@ -24,10 +24,18 @@
 
 **Link(s) to work** http://codepen.io/frmysantana/pen/KapyMR
 
-### Day 3: January 7, 2016
+### Day 3: January 7, 2017
 
 **Today's Progress**: Read through many different CSS options and tinkered with the CSS on my tribute page. Also I was unkowingly working on the copy of that tribute that I had saved for day 2, so that page is now lost.
 
 **Thoughts**: Without having a clear design on paper or in my head, it's like I'm throwing paint at a wall and cleaning up what I don't like. However, I'm leaning towards seeing that as a positive, at least for now.
 
 **Link(s) to work**:http://codepen.io/frmysantana/pen/KapyMR
+
+### Day 4: January 8, 2017
+
+**Today's Progress**: I tried out JavaScript30.com and started doing the first challenge (a JS drum kit).
+
+**Thoughts**: I've never used Javascript and only learned up to half way through FreeCodeCamp's Object Oriented and Functional Programming section, so this project is a bit over my head, but I think I remember enough of the fundamentals to follow along with what is being done. However, I absolutely would not be able to do this from scratch, so I have a lot to dig into and refresh in order to continue.
+
+**Link(s) to work**: N/A
