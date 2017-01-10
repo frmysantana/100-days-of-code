@@ -39,3 +39,11 @@
 **Thoughts**: I've never used Javascript and only learned up to half way through FreeCodeCamp's Object Oriented and Functional Programming section, so this project is a bit over my head, but I think I remember enough of the fundamentals to follow along with what is being done. However, I absolutely would not be able to do this from scratch, so I have a lot to dig into and refresh in order to continue.
 
 **Link(s) to work**: N/A
+
+### Day 5: January 9, 2017
+
+**Today's Progress**: Finished the JS drum kit challenge.
+
+**Thoughts**: I CAN FINALLY BLAST BEAT!!!! It made me smile when I got the final product working!
+
+**Link(s) to work**: N/A
