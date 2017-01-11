@@ -1,12 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 0:
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**:
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**:
 
 ### Day 1: January 5, 2017
 
@@ -45,5 +45,13 @@
 **Today's Progress**: Finished the JS drum kit challenge.
 
 **Thoughts**: I CAN FINALLY BLAST BEAT!!!! It made me smile when I got the final product working!
+
+**Link(s) to work**: N/A
+
+### Day 6: January 10, 2017
+
+**Today's Progress**: Started the second Javascript30 challenge. However, instead of following the video, I only saw enough to understand what the final product should do. Then, I tried to reason what steps/tasks would have to be done to complete it, and then how these tasks could be done through code. Consequently, I was mostly reading Javascript and CSS documentation and tinkereing with pieces of code.
+
+**Thoughts**: I felt very nervous trying to figure this out on my own without a guide, but I have to get used to and embrace this feeling if I'm going to make any significant progress in coding.
 
 **Link(s) to work**: N/A
