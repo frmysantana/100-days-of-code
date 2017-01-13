@@ -55,3 +55,19 @@
 **Thoughts**: I felt very nervous trying to figure this out on my own without a guide, but I have to get used to and embrace this feeling if I'm going to make any significant progress in coding.
 
 **Link(s) to work**: N/A
+
+### Day 7: January 11, 2017
+
+**Today's Progress**: Finished the second Javascript30 challenge.
+
+**Thoughts**: I caved and had to just use the video, making me realize that I don't understand this stuff very well.
+
+**Link(s) to work**: N/A
+
+### Day 8: January 12, 2017
+
+**Today's Progress**: Completed the third Javascript30 challenge.
+
+**Thoughts**: Although I tried to piece it together on my own, I again had to just follow the video. I have to study this stuff more, especially now that these challenges have introduced me to many new concepts.
+
+**Link(s) to work**: N/A
