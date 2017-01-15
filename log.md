@@ -74,7 +74,7 @@
 
 ### Day 9: January 14, 2017
 
-**Today's Progress**: Worked on the third Javascript30 challenge.
+**Today's Progress**: Worked on the fourth Javascript30 challenge.
 
 **Thoughts**:I was finally able to piece together some of the exercise on my own!
 
