@@ -71,3 +71,11 @@
 **Thoughts**: Although I tried to piece it together on my own, I again had to just follow the video. I have to study this stuff more, especially now that these challenges have introduced me to many new concepts.
 
 **Link(s) to work**: N/A
+
+### Day 9: January 14, 2017
+
+**Today's Progress**: Worked on the third Javascript30 challenge.
+
+**Thoughts**:I was finally able to piece together some of the exercise on my own!
+
+**Link(s) to work**: N/A
