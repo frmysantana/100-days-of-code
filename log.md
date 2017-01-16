@@ -79,3 +79,11 @@
 **Thoughts**:I was finally able to piece together some of the exercise on my own!
 
 **Link(s) to work**: N/A
+
+### Day 10: January 15, 2017
+
+**Today's Progress**: Continued working on the fourth Javascript30 challenge. It's taking me a bit longer because I'm reading about and tinkering with the indicated methods, instead of watching the videos and copying Bos's approach.
+
+**Thoughts**: It is much more rewarding to figure this out by myself.
+
+**Link(s) to work**: N/A
