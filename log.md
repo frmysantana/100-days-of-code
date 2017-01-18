@@ -87,3 +87,11 @@
 **Thoughts**: It is much more rewarding to figure this out by myself.
 
 **Link(s) to work**: N/A
+
+### Day 11: January 17, 2017
+
+**Today's Progress**: Finished the fourth Javascript30 challenge. However, I caved and had to just watch the video after only being able to solve the first 3 part of the challenge.
+
+**Thoughts**: It felt a bit overwhelming, but I pulled through.
+
+**Link(s) to work**: N/A
