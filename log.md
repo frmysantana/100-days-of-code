@@ -22,7 +22,7 @@
 
 **Thoughts**: I was surprised at how easy it was to incororate MathJax. When I found out about it yesterday, I though it would have taken me an hour to figure out how to use. However, it only actually took about 15 minutes!
 
-**Link(s) to work** http://codepen.io/frmysantana/pen/KapyMR
+**Link(s) to work**: N/A (accidentally overwritten with the progress of the third day) 
 
 ### Day 3: January 7, 2017
 
@@ -30,7 +30,7 @@
 
 **Thoughts**: Without having a clear design on paper or in my head, it's like I'm throwing paint at a wall and cleaning up what I don't like. However, I'm leaning towards seeing that as a positive, at least for now.
 
-**Link(s) to work**:http://codepen.io/frmysantana/pen/KapyMR
+**Link(s) to work**: N/A (after I finished the tribute page, I ended up deleting this version)
 
 ### Day 4: January 8, 2017
 
@@ -95,3 +95,11 @@
 **Thoughts**: It felt a bit overwhelming, but I pulled through.
 
 **Link(s) to work**: N/A
+
+### Day 1: January 22, 2017
+
+**Today's Progress**: After several days of doing other forms of coding that weren't working on projects, I decided it would be best to start the challenge all over from day 1. Today I finished the tribute page for freecodecamp.
+
+**Thoughts**: It feels great to finally finish this thing!!!!!
+
+**Link(s) to work**: http://codepen.io/frmysantana/pen/ZOXqqQ
