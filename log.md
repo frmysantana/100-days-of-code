@@ -103,3 +103,11 @@
 **Thoughts**: It feels great to finally finish this thing!!!!!
 
 **Link(s) to work**: http://codepen.io/frmysantana/pen/ZOXqqQ
+
+### Day 2: January 23, 2017
+
+**Today's Progress**: I began working on my portfolio page as part of FreeCodeCamp.
+
+**Thoughts**: As I started laying the foundation for the page, I started realizing what challenges lay ahead in order to complete this project, such as putting a small image of a project in the portfolio section and using javascript to link to other sections of the page. However, these challenges made me excited to figure out instead of making me feel overwhelmed!
+
+**Link(s) to work**: N/A
