@@ -111,3 +111,11 @@
 **Thoughts**: As I started laying the foundation for the page, I started realizing what challenges lay ahead in order to complete this project, such as putting a small image of a project in the portfolio section and using javascript to link to other sections of the page. However, these challenges made me excited to figure out instead of making me feel overwhelmed!
 
 **Link(s) to work**: N/A
+
+### Day 3: January 24, 2017
+
+**Today's Progress**: Continued the portfolio page. I drew a quick outline of the page and started putting in the buttons to skip around on the page, as well as the social media links.
+
+**Thoughts**: I need a more thorough reference for Bootstrap.
+
+**Link(s) to work**: N/A
