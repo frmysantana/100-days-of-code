@@ -119,3 +119,12 @@
 **Thoughts**: I need a more thorough reference for Bootstrap.
 
 **Link(s) to work**: N/A
+
+### Day 4: January 25, 2017
+
+**Today's Progress**: Continued on the portfolio page. Figured out how to make bookmark links, as well as outlining all elements to more clearly see where everything is currently positioned.
+
+**Thoughts**: I wasn't very distracted while working today and was surprised when the hour had already concluded.
+
+**Link(s) to work**: N/A
+
