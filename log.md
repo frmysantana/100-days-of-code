@@ -128,3 +128,11 @@
 
 **Link(s) to work**: N/A
 
+### Day 5: January 27, 2017
+
+**Today's Progress**: Finished most of the layout and function of the portfolio page, including having a thumbnail of previous projects. However, the only previous project I have is the tribute page, for which I was able to use the embed feature on codepen.io. Not sure how I'm going to put thumbnails for future projects that aren't on codepen without holding the images locally on my computer.
+
+**Thoughts**: N/A
+
+**Link(s) to work**: N/A
+
