@@ -136,3 +136,11 @@
 
 **Link(s) to work**: N/A
 
+### Day 6: January 28, 2017
+
+**Today's Progress**: Played with some visual aspects of the portfolio page, including using font-awesome. Along the way I was reading about hidden attributes.
+
+**Thoughts**: I feel like I'm running out of steam to keep fueling this project. I may have to end it soon so that I reinvigorate myself with something new.
+
+**Link(s) to work**: N/A
+
