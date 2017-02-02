@@ -144,3 +144,27 @@
 
 **Link(s) to work**: N/A
 
+### Day 7: January 30, 2017
+
+**Today's Progress**: Worked on the algorithm challenges on freecodecamp.
+
+**Thoughts**: N/A
+
+**Link(s) to work**: N/A
+
+### Day 8: January 31, 2017
+
+**Today's Progress**: More Algorithms!
+
+**Thoughts**: N/A
+
+**Link(s) to work**: N/A
+
+### Day 9: February 1, 2017
+
+**Today's Progress**: Even more algorithms. Just four left before I finish this section on FreeCodeCamp.
+
+**Thoughts**: N/A
+
+**Link(s) to work**: N/A
+
