@@ -168,3 +168,11 @@
 
 **Link(s) to work**: N/A
 
+### Day 10: February 3, 2017
+
+**Today's Progress**: I finished the Basic Algorithm Scripting section of FreeCodeCamp!
+
+**Thoughts**: The last challenge of this section (Caeser's Cipher) was particularly challenging, but after I completed it, I felt very accomplished! 
+
+**Link(s) to work**: N/A
+
