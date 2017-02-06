@@ -176,3 +176,21 @@
 
 **Link(s) to work**: N/A
 
+### Day 11: February 4, 2017
+
+**Today's Progress**: I started and completed FreeCodeCamp's "JSON APIs and Ajax" section. Tomorrow I will begin the intermediate front-end projects.
+
+**Thoughts**: I liked that this section actually showed how javascript/jquery can effect the appearance of a page, as well as shedding light on the concept of APIs, a term which I have heard of several times by now, but never really had an idea of what they were.
+
+**Link(s) to work**: N/A
+
+### Day 12: February 5, 2017
+
+**Today's Progress**: Began the random quote machine project today. Mostly just put some basic html and css and start having a foundation for the project. I also experimented a bit with jquery and goodreads.com to see if I could import their quotes to my page easily. Did not work! But they have an API that I'll try to use for the project.
+
+**Thoughts**: As I started realizing the scope of the project, it became very daunting to me and I started to get anxious. But I realized this is probably how I'll feel starting every project, so I have to get used to it and continue working on the project regardless.
+
+**Link(s) to work**: N/A
+
+
+
