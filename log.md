@@ -192,5 +192,28 @@
 
 **Link(s) to work**: N/A
 
+### Day 13: February 7, 2017
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 14: February 8, 2017
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 15: February 9, 2017
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
 
 
