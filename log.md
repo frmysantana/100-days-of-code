@@ -194,26 +194,35 @@
 
 ### Day 13: February 7, 2017
 
-**Today's Progress**:
+**Today's Progress**: Decided that instead of tinkering with the goodreads API, I could try to build a prototype as a proof of concept. So I gathered five quotes and was eventually able to get JQuery to update the displayed text with a randomly selected quote. Next I have to try to get JQuery to also update the color of the page randomly through CSS variables.
 
-**Thoughts**:
+**Thoughts**: It felt great to unravel this puzzle!
 
-**Link(s) to work**:
+**Link(s) to work**: N/A
 
 ### Day 14: February 8, 2017
 
-**Today's Progress**:
+**Today's Progress**: I've tried many approaches and am reading into CSS to try to figure out how to update my CSS variable that is controlling the colors on the page, but couldn't figure it out today.
 
-**Thoughts**:
+**Thoughts**: Although I haven't figured it out, I still have some hunches, so I'm not feeling bad about today's work.
 
-**Link(s) to work**:
+**Link(s) to work**: N/A
 
 ### Day 15: February 9, 2017
 
-**Today's Progress**:
+**Today's Progress**: After adapting some code that I found on stackoverflow, JQuery finally updates the variables! However, I'm not sure why this approach works while the approach that I was trying did not work (the only difference between the two is that the stackoverflow solution uses .get(0) on the selector before trying to update the style, but from reading about this method, it doesn't yet make sense to me as the selector that I used only has one instance within the HTML code, not several).
 
-**Thoughts**:
+**Thoughts**: A bit mystified as to why the solution works, but nonetheless I feel good that I finally have a solution.
 
-**Link(s) to work**:
+**Link(s) to work**: N/A
+
+### Day 16: February 11, 2017
+
+**Today's Progress**: Continued trying to find a way to get the tweet button to work. Found a promising link that I may be able to use as a template in order to figure this out.
+
+**Thoughts**: No highs today. But also no lows!!
+
+**Link(s) to work**: N/A
+
 
 
