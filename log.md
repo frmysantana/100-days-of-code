@@ -224,5 +224,20 @@
 
 **Link(s) to work**: N/A
 
+### Day 17: February 13, 2017
+
+**Today's Progress**: Got a bit closer to getting the tweet button to work, but it's still not there yet.
+
+**Thoughts**: N/A
+
+**Link(s) to work**: N/A
+
+### Day 18: February 14, 2017
+
+**Today's Progress**:Tweet button works!!!
+
+**Thoughts**: I got that satisfied feeling again once all of the functional features were completed!
+
+**Link(s) to work**: N/A
 
 
