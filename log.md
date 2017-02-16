@@ -240,4 +240,12 @@
 
 **Link(s) to work**: N/A
 
+### Day 19: February 15, 2017
+
+**Today's Progress**: Changed a bunch of the CSS on the quote machine so that the quotes were readable regardless of what random color they are set to. I did this by using the text-shadow property with blur. I also brought in font awesome to make the buttons look better and found a way to make the content be vertically centered. All that is left is to include some javascript that filters quotes that are too long for twitter, understand the part of this code that I only slightly modified and got to work without really understanding how or why they work, and getting more quotes. At this point, I don't think that goodreads is the way to go to complete this aspect of the project.
+
+**Thoughts**: Feeling pretty good, especially now that I'm seeing more of what CSS can do.
+
+**Link(s) to work**: N/A
+
 
