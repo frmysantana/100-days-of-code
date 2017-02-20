@@ -242,10 +242,41 @@
 
 ### Day 19: February 15, 2017
 
-**Today's Progress**: Changed a bunch of the CSS on the quote machine so that the quotes were readable regardless of what random color they are set to. I did this by using the text-shadow property with blur. I also brought in font awesome to make the buttons look better and found a way to make the content be vertically centered. All that is left is to include some javascript that filters quotes that are too long for twitter, understand the part of this code that I only slightly modified and got to work without really understanding how or why they work, and getting more quotes. At this point, I don't think that goodreads is the way to go to complete this aspect of the project.
+**Today's Progress**: Changed a bunch of the CSS on the quote machine so that the quotes were readable regardless of what random color they are set to. I did this by using the text-shadow property with blur. I also brought in font awesome to make the buttons look better and found a way to make the content be vertically centered. All that is left is to include some javascript that filters quotes that are too long for twitter, understand the parts of this code that I only slightly modified and got to work without really understanding how or why they work, and getting more quotes. At this point, I don't think that goodreads is the way to go to complete this aspect of the project.
 
 **Thoughts**: Feeling pretty good, especially now that I'm seeing more of what CSS can do.
 
 **Link(s) to work**: N/A
 
+### Day 20: February 16, 2017
+
+**Today's Progress**: Studied the text-shadow property that I used for the quote machine and started trying to understand the code that vertically centered the output box.
+
+**Thoughts**:
+
+**Link(s) to work**: N/A
+
+### Day 21: February 17, 2017
+
+**Today's Progress**: I think I know have an okay understanding of how the vertical centering works.
+
+**Thoughts**: Each little aspect that I learn opens up a whole new level of depth to CSS. It's kind of daunting, but I'll persevere.
+
+**Link(s) to work**: N/A
+
+### Day 22: February 18, 2017
+
+**Today's Progress**: Now I'm trying to understand how the javascript I borrowed achieved the desired results, and why my previous attempts hadn't worked. I now understand how the tweet button works through the jQuery code that I added.
+
+**Thoughts**: I will still have to add a filter to make sure that the entire quote, along with the speaker, totals less than 150 characters in order for the tweet button to still work.
+
+**Link(s) to work**: N/A
+
+### Day 23: February 19, 2017
+
+**Today's Progress**: I now think I understand how the code I added to change the color CSS variable when the next quote button is clicked works, as well as why my original approach did not work.
+
+**Thoughts**: Just as with CSS, this new understanding has revealed a new level of complexity within jQuery, as well as leading me to use codepen's feature of creating a downloadable .zip file with the fully formatted webpage code in case you need the browser's developer tools to continue refining your project. This is getting increasingly more interesting!
+
+**Link(s) to work**: N/A
 
