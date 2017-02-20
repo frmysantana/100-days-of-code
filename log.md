@@ -268,7 +268,7 @@
 
 **Today's Progress**: Now I'm trying to understand how the javascript I borrowed achieved the desired results, and why my previous attempts hadn't worked. I now understand how the tweet button works through the jQuery code that I added.
 
-**Thoughts**: I will still have to add a filter to make sure that the entire quote, along with the speaker, totals less than 150 characters in order for the tweet button to still work.
+**Thoughts**: I will still have to add a filter to make sure that the entire quote, along with the speaker, totals less than 140 characters in order for the tweet button to still work.
 
 **Link(s) to work**: N/A
 
