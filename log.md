@@ -280,3 +280,11 @@
 
 **Link(s) to work**: N/A
 
+### Day 24: February 20, 2017
+
+**Today's Progress**: Added a Google font to make the quotes look nicer. I also added more quotes to choose from. Now I have to filter through them to only keep the ones that would fit on twitter.
+
+**Thoughts**: Almost didn't work on code today, but I made myself get it done. However, it wasn't an hour (more like 40 minutes).
+
+**Link(s) to work**: N/A
+
