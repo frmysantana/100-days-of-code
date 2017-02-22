@@ -288,3 +288,11 @@
 
 **Link(s) to work**: N/A
 
+### Day 25: February 21, 2017
+
+**Today's Progress**: Added some more quotes and filtered through them to see which were short enough to tweet. I think at this point the project is completed!
+
+**Thoughts**: Feels good to see this project through to the end!
+
+**Link(s) to work**: http://codepen.io/frmysantana/pen/rjKqvv?editors=1010
+
