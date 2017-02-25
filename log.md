@@ -296,3 +296,19 @@
 
 **Link(s) to work**: http://codepen.io/frmysantana/pen/rjKqvv?editors=1010
 
+### Day 26: February 23, 2017
+
+**Today's Progress**: Spent the day going through database stuff on Udacity.
+
+**Thoughts**: Irregularity with this topic is partly why it's taking me so long to finish this program.
+
+**Link(s) to work**: N/A
+
+### Day 27: February 24, 2017
+
+**Today's Progress**: Finished the database lesson on Udacity from yesterday. Now I'm not sure if I'll go straight into the Udacity project, or work on my flash card project. I think I'll prioritise the udacity project and work on my flashcard thing on the side.
+
+**Thoughts**: N/A
+
+**Link(s) to work**: N/A
+
