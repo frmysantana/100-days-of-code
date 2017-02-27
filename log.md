@@ -312,3 +312,11 @@
 
 **Link(s) to work**: N/A
 
+### Day 28: February 25, 2017
+
+**Today's Progress**: I decided to focus on the udacity project to finish the nanadegree ASAP. Today I mainly was going through a bunch of the links that the database lessons led me to.
+
+**Thoughts**: N/A
+
+**Link(s) to work**: N/A
+
