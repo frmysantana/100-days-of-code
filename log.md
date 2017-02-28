@@ -320,3 +320,10 @@
 
 **Link(s) to work**: N/A
 
+### Day 29: February 27
+
+**Today's Progress**: Started the database project for Udacity. Not sure how I'll structure some of the tables, but I have a decent idea about structuring the players and their standings. Also completed a few of the functions on the python DB API side.
+
+**Thoughts**: Today I started implementing the pomodoro technique, although I only did one round. Completed it successfully without any issues. Hopefully this helps me ramp up my productivity.
+
+**Link(s) to work**: N/A
