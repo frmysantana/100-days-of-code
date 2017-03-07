@@ -327,3 +327,51 @@
 **Thoughts**: Today I started implementing the pomodoro technique, although I only did one round. Completed it successfully without any issues. Hopefully this helps me ramp up my productivity.
 
 **Link(s) to work**: N/A
+
+### Day 30: March 1, 2017
+
+**Today's Progress**: Started running unit tests on the functions. There are many errors to correct.
+
+**Thoughts**: N/A
+
+**Link(s) to work**: N/A
+
+### Day 31: March 2, 2017
+
+**Today's Progress**: Got through the first round of unit tests and am working on the next function.
+
+**Thoughts**: N/A
+
+**Link(s) to work**: N/A
+
+### Day 32: March 3, 2017
+
+**Today's Progress**: Still working on that aformentioned function. Trying to find a way to sum rows instead of columns.
+
+**Thoughts**: N/A
+
+**Link(s) to work**: N/A
+
+### Day 33: March 4, 2017
+
+**Today's Progress**: I decided to change the database schema instead of continuing down that row-wise sum idea. Also passed the next round of unit tests and started on the last function.
+
+**Thoughts**: N/A
+
+**Link(s) to work**: N/A
+
+### Day 34: March 5, 2017
+
+**Today's Progress**: Finished the functions and schema! They now pass all of the tests. I may have to refactor some of it so that it used python less and I definitely have to add documentation, but I think I can have everything done by tomorrow.
+
+**Thoughts**: N/A
+
+**Link(s) to work**: N/A
+
+### Day 35: March 6, 2017
+
+**Today's Progress**: Finished and submitted the database project!
+
+**Thoughts**: Feels great to accomplish another project!
+
+**Link(s) to work**: N/A
