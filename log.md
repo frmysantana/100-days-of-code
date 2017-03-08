@@ -375,3 +375,11 @@
 **Thoughts**: Feels great to accomplish another project!
 
 **Link(s) to work**: N/A
+
+### Day 36: March 7, 2017
+
+**Today's Progress**: Got feedback on the database project and worked on improving it. I added a matches table to keep track of specific matches along with their winners and added some views to simplify to sql queries. Now to see if I can simplify the connect, cursor, execute, commit, close process and create/connect to the database from within the tournament.sql file.
+
+**Thoughts**:N/A
+
+**Link(s) to work**: N/A
