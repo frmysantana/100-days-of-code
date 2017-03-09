@@ -383,3 +383,11 @@
 **Thoughts**:N/A
 
 **Link(s) to work**: N/A
+
+### Day 37: March 8, 2017
+
+**Today's Progress**: Today I was able to do all of the connecting, cursoring, executing, commiting, fetching, and closing through just what was originally the "connect" function. However, the code wound up being longer and slower, I think. Not sure if this was worth it, but it was a good challenge to work through. Tomorrow I'll try to delete, create, and connect from the tournament.sql file. Regardless of whether or not I can figure that out, I will be resubmitting the project tomorrow.
+
+**Thoughts**: I had some more inertia than usual today when trying to code, but I got through it.
+
+**Link(s) to work**: N/A
