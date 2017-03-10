@@ -391,3 +391,11 @@
 **Thoughts**: I had some more inertia than usual today when trying to code, but I got through it.
 
 **Link(s) to work**: N/A
+
+### Day 38: March 9, 2017
+
+**Today's Progress**: I was able to shorten the tournament.py file so that the new implementation (with all query executions done through one function) is shorter than the original. Not sure if it is faster, though. I also figured out how to delete, creat, and connect from the tournament.sql file and updated the README file accordingly. Now that it's done, I resubmitted the project.
+
+**Thoughts**: Turns out the solution to the delete/create through sql was far simpler than I thought. I would have gotten the answer within five minutes if I just read the documentation on the DROP query.
+
+**Link(s) to work**: N/A
