@@ -399,3 +399,11 @@
 **Thoughts**: Turns out the solution to the delete/create through sql was far simpler than I thought. I would have gotten the answer within five minutes if I just read the documentation on the DROP query.
 
 **Link(s) to work**: N/A
+
+### Day 39: March 10, 2017
+
+**Today's Progress**: The project was reviewed, and this time there is more to fix than last time. It seems that my implementation of the matches table and standings table has some redundancies. Started correcting the issues. Also, it seems that the README file isn't adequate, so I'll have to go through the README course to improve it. Doubt I'll be able to get the project to pass before the enrollment fee is charged against my accoutn, but it definitely shouldn't last too much longer.
+
+**Thoughts**: Feel a bit disheartened that the second attempt seems to have more wrong with it than the first attempt, but this is something I'll probably have to contend with when working on actual code for a job, so I better get used to this.
+
+**Link(s) to work**: N/A
