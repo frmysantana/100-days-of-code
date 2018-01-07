@@ -14,4 +14,12 @@
 
 **Thoughts**: The challenge was relatively easy. The only problem that I kept running into was that I had unknowingly passed one of the inventory arrays by reference to another variable. This caused the original array to be modified whenever I changed that variable, which then interferred with the for loops that I had set up to compare the two inventories.
 
-**Link(s) to work**: <a href=https://github.com/frmysantana/Scripts/blob/master/updateInventory.js target="_blank">Inventory Update Solution.</a>
+**Link(s) to work**: <a href="https://github.com/frmysantana/Scripts/blob/master/updateInventory.js" target="_blank">Inventory Update Solution.</a>
+
+### Day 2: January 5, 2018
+
+**Today's Progress**: Today I began the "No Repeats Please" script challenge on freeCodeCamp. Unfortunately, I was not able to complete it by the end of the day, although my attempt is right for 6 out of the 9 test strings.
+
+**Thoughts**: I was first intimidated by the thought of trying to find all permutations of a string for the challenge, but was able to reason my way through it. However, my methodology was off as shown by the script failing for all strings longer than 3 characters. I was able to figure out that my algorithm wasn't comprehensive and found out how I could get all permutations on paper by thinking of each character as a node in a tree. However, I'm not sure how to get a computer to do this for me. 
+
+**Link(s) to work**: <a href="https://github.com/frmysantana/Scripts/blob/master/noRepeats.js" target="_blank">"No Repeats Please" attempt.</a>
