@@ -31,3 +31,11 @@
 **Thoughts**: I feel uncomfortable about implementing an algorithm that I don't actually understand.
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/Scripts/commit/365f3e37020b1634a4e78735157a8452dc13b748#diff-d68fd3e814ebfe7cab21956a244d1e0e" target="_blank">"No Repeats Please" solution.</a>
+
+### Day 4: January 7, 2018
+
+**Today's Progress**: Today I completed the "Make a Person" script challenge on freeCodeCamp.
+
+**Thoughts**: It took me longer than expected because I misunderstood whether or not closures can be used to reset hard-coded variable values, but I eventually got it.
+
+**Link(s) to work**: <a href="https://github.com/frmysantana/Scripts/blob/master/makeAPerson.js" target="_blank">"Make a Person" solution.</a>
