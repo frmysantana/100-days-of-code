@@ -39,3 +39,11 @@
 **Thoughts**: It took me longer than expected because I misunderstood whether or not closures can be used to reset hard-coded variable values, but I eventually got it.
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/Scripts/blob/master/makeAPerson.js" target="_blank">"Make a Person" solution.</a>
+
+### Day 5: January 8, 2018
+
+**Today's Progress**: Today I completed the "Map the Debris" and "Pairwise" challenges on freeCodeCamp, thus finishing the Advanced Algorithms section. I also worked a bit on my portfolio design.
+
+**Thoughts**: I'm glad to be moving on to the advanced projects.
+
+**Link(s) to work**:<a href="https://github.com/frmysantana/Scripts/blob/master/mapTheDebris.js">"Map the Debris" solution.</a> and <a href="https://github.com/frmysantana/Scripts/blob/master/pairwise.js">"" solution.</a>
