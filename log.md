@@ -46,4 +46,4 @@
 
 **Thoughts**: I'm glad to be moving on to the advanced projects.
 
-**Link(s) to work**:<a href="https://github.com/frmysantana/Scripts/blob/master/mapTheDebris.js">"Map the Debris" solution.</a> and <a href="https://github.com/frmysantana/Scripts/blob/master/pairwise.js">"" solution.</a>
+**Link(s) to work**:<a href="https://github.com/frmysantana/Scripts/blob/master/mapTheDebris.js">"Map the Debris" solution</a> and <a href="https://github.com/frmysantana/Scripts/blob/master/pairwise.js">"Pairwise" solution.</a>
