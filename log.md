@@ -62,4 +62,4 @@
 
 **Thoughts**: It felt great tackling this problem on the Javascript side and boosted my confidence that I do enjoy doing these sorts of things.
 
-**Link(s) to work**:<a href="https://github.com/frmysantana/JavaScript_Calculator/commit/93bb7f439e7bea57bfa22218ae3034a79801aae8#diff-d5fdf20a4f2a28db4d54bb5bdfde8494">Updated HTML</a>,<a href="https://github.com/frmysantana/JavaScript_Calculator/commit/7b81025941dc464d3951f39e65e34d3c96415e06#diff-d1bc7d3194e9fbf926127958ad9c5698">Updated CSS</a>, <a href="">Updated JavaScript<a>.
+**Link(s) to work**:<a href="https://github.com/frmysantana/JavaScript_Calculator/commit/93bb7f439e7bea57bfa22218ae3034a79801aae8#diff-d5fdf20a4f2a28db4d54bb5bdfde8494">Updated HTML</a>,<a href="https://github.com/frmysantana/JavaScript_Calculator/commit/7b81025941dc464d3951f39e65e34d3c96415e06#diff-d1bc7d3194e9fbf926127958ad9c5698">Updated CSS</a>, <a href="https://github.com/frmysantana/JavaScript_Calculator/commit/cfee41a1c39583a409915aa956320056489354b1#diff-2bf9b566d3a19c340b4732d241c40dfd">Updated JavaScript<a>.
