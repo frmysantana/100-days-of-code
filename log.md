@@ -48,10 +48,18 @@
 
 **Link(s) to work**:<a href="https://github.com/frmysantana/Scripts/blob/master/mapTheDebris.js">"Map the Debris" solution</a> and <a href="https://github.com/frmysantana/Scripts/blob/master/pairwise.js">"Pairwise" solution.</a>
 
-### Day 6:
+### Day 6: January 9, 2018
 
 **Today's Progress**: Today I started the Javascript Calculator project on freeCodeCamp. I completed the HTML and basic styling so that the page can be interpreted as a rudimentary calculator. I also set up the click event listeners on all of the elements and will be focusing the next day(s) to getting the page to be functional before I worry about better styling.
 
 **Thoughts**: The initial anxiety I felt over not being sure how I'd complete this project gave way to excited experimentation as I started to code up the page. Felt great!
 
 **Link(s) to work**:<a href="https://github.com/frmysantana/JavaScript_Calculator/tree/master">Beginning of the Javascript Calculator.</a>
+
+### Day 7: January 10, 2018
+
+**Today's Progress**: Today I completed most of the functionality of the Javascript Calculator so that it compies with the freeCodeCamp User Stories. I may add in an oposite button (a button that returns the opposite sign of the last argument so that a positive number is returned as its negative and vice versa) some time in the future.
+
+**Thoughts**: It felt great tackling this problem on the Javascript side and boosted my confidence that I do enjoy doing these sorts of things.
+
+**Link(s) to work**:
