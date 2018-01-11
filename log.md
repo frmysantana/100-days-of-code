@@ -62,4 +62,4 @@
 
 **Thoughts**: It felt great tackling this problem on the Javascript side and boosted my confidence that I do enjoy doing these sorts of things.
 
-**Link(s) to work**:
+**Link(s) to work**:<a href="https://github.com/frmysantana/JavaScript_Calculator/compare/master...update?diff=split&name=update">Updated HTML</a>,
