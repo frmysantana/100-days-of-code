@@ -74,8 +74,8 @@
 
 ### Day 9: January 12, 2017
 
-**Today's Progress**:
+**Today's Progress**: I fixed the layout and styling issues and set up an event listener on the +/- button. Tomorrow I'll get it working, simplify the code, and add comments. By then the project should pretty much be done. 
 
-**Thoughts**:
+**Thoughts**: I underestimated my CSS knowledge, for it actually didn't take that long to figure out the issues and fix them. I guess I was just a bit too tired last night to think straight.
 
 **Link(s) to work**:
