@@ -79,3 +79,11 @@
 **Thoughts**: I underestimated my CSS knowledge, for it actually didn't take that long to figure out the issues and fix them. I guess I was just a bit too tired last night to think straight.
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/JavaScript_Calculator/commit/2d745b37ee9caa410504cc15fb9878c1bc6aca39#diff-d5fdf20a4f2a28db4d54bb5bdfde8494">Updated HTML</a>. <a href="https://github.com/frmysantana/JavaScript_Calculator/commit/d657dcd2e7f6c150c82fedee0c7cad6b586556be#diff-d1bc7d3194e9fbf926127958ad9c5698">Updated CSS</a>. <a href="https://github.com/frmysantana/JavaScript_Calculator/commit/7129720e29bc75fe539a80c83aeb2a78bffca22e#diff-2bf9b566d3a19c340b4732d241c40dfd">Updated JS</a>.
+
+### Day 10: January 14, 2017
+
+**Today's Progress**: Yesterday was very hectic and busy, so I took a day off from coding. Today I finished the functionality of the Javascript Calculator and simplified and commented the code.
+
+**Thoughts**: I'm feeling a bit tired, but happy that I have essentially finished this project. For the next few days, I'm going to focus on my portfolio site.
+
+**Link(s) to work**: <a href="https://github.com/frmysantana/JavaScript_Calculator/commit/9186acea3c5cd8ae24e962f940f05d9a1587b9c9#diff-2bf9b566d3a19c340b4732d241c40dfd"> Updated Javascript. </a>
