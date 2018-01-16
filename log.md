@@ -87,3 +87,11 @@
 **Thoughts**: I'm feeling a bit tired, but happy that I have essentially finished this project. For the next few days, I'm going to focus on my portfolio site.
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/JavaScript_Calculator/commit/9186acea3c5cd8ae24e962f940f05d9a1587b9c9#diff-2bf9b566d3a19c340b4732d241c40dfd"> Updated Javascript. </a>
+
+### Day 11: January 15, 2017
+
+**Today's Progress**: Today I started coding my portfolio page.
+
+**Thoughts**: I didn't start this until late in the day, so my brain was a bit foggy. As a result, I was a bit slow. Thankfully, slow and steady can still win the race.
+
+**Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/blob/master/index.html">Site Html</a>. <a href="https://github.com/frmysantana/Personal_Site/blob/master/index.html">Site Css</a>.
