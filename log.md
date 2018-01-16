@@ -94,4 +94,4 @@
 
 **Thoughts**: I didn't start this until late in the day, so my brain was a bit foggy. As a result, I was a bit slow. Thankfully, slow and steady can still win the race.
 
-**Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/blob/master/index.html">Site Html</a>. <a href="https://github.com/frmysantana/Personal_Site/blob/master/styles.css">Site Css</a>.
+**Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/4b4342c5e6466a8ee0534b6890bf343ebacec1ab">Site Html</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/ebf7dbde19316e0f15103d6e6bafd32c4b933103#diff-4e7bb40584b55a44f4657b188986bff4">Site Css</a>.
