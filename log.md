@@ -95,3 +95,11 @@
 **Thoughts**: I didn't start this until late in the day, so my brain was a bit foggy. As a result, I was a bit slow. Thankfully, slow and steady can still win the race.
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/4b4342c5e6466a8ee0534b6890bf343ebacec1ab">Site Html</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/ebf7dbde19316e0f15103d6e6bafd32c4b933103#diff-4e7bb40584b55a44f4657b188986bff4">Site Css</a>.
+
+### Day 12: January 16, 2017
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/5eb57f78afb1d6f2d90f80a2b3d832d75694c582#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated HTML</a>.<a href="https://github.com/frmysantana/Personal_Site/commit/226dd4ae2c4e3128090fafac625169d4ffb73012#diff-4e7bb40584b55a44f4657b188986bff4">Updated Css</a>.
