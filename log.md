@@ -98,8 +98,8 @@
 
 ### Day 12: January 16, 2017
 
-**Today's Progress**:
+**Today's Progress**: Today I continued with my website. I'm mainly trying to get the site to match the mobile design. Then I will match the desktop design and finally add the functionality.
 
-**Thoughts**:
+**Thoughts**: I felt okay with the work I did today. It's some more progress. However, I may have to devote more than an hour per day to this later in the week if I'm going to have it completed by Sunday.
 
-**Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/5eb57f78afb1d6f2d90f80a2b3d832d75694c582#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated HTML</a>.<a href="https://github.com/frmysantana/Personal_Site/commit/226dd4ae2c4e3128090fafac625169d4ffb73012#diff-4e7bb40584b55a44f4657b188986bff4">Updated Css</a>.
+**Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/5eb57f78afb1d6f2d90f80a2b3d832d75694c582#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated HTML</a>.<a href="https://github.com/frmysantana/Personal_Site/commit/226dd4ae2c4e3128090fafac625169d4ffb73012#diff-4e7bb40584b55a44f4657b188986bff4"> Updated Css</a>.
