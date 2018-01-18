@@ -103,3 +103,13 @@
 **Thoughts**: I felt okay with the work I did today. It's some more progress. However, I may have to devote more than an hour per day to this later in the week if I'm going to have it completed by Sunday.
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/5eb57f78afb1d6f2d90f80a2b3d832d75694c582#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated HTML</a>.<a href="https://github.com/frmysantana/Personal_Site/commit/226dd4ae2c4e3128090fafac625169d4ffb73012#diff-4e7bb40584b55a44f4657b188986bff4"> Updated Css</a>.
+
+### Day 13: January 17, 2017
+
+**Today's Progress**: Today I finished the code for the mobile version, I think. I write "I think", because so far I've only been testing the output on the browser on my laptop and changing the window size to what Bootstrap considers mobile size (less than 768 px). In a little bit, I'll check if it works on mobile. Tomorrow I'll do the tablet-and-up design (which is the desktop design), thus leaving me 2-3 days to flesh out the functionality and content.
+
+**Thoughts**: I feel great (albiet pretty tired) for making steady progress on this!
+
+**Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/3f7ddc37ae44656b2bb0323ed748f7dff32ba342#diff-eacf331f0ffc35d4b482f1d15a887d3b">HTML</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/129d2909c5fe02e076b0e4ba46e98a21edc22fc7#diff-4e7bb40584b55a44f4657b188986bff4">Updated CSS</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/9c741b928a691fd6aac0a7237a6be1308550e59f#diff-db8f629adc6c4c33f29613cfb71a6038">JavaScript</a>.
+
+
