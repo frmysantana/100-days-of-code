@@ -114,4 +114,10 @@ Update: I just looked at the HTML preview of my site on mobile, and the layout w
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/3f7ddc37ae44656b2bb0323ed748f7dff32ba342#diff-eacf331f0ffc35d4b482f1d15a887d3b">HTML</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/129d2909c5fe02e076b0e4ba46e98a21edc22fc7#diff-4e7bb40584b55a44f4657b188986bff4">Updated CSS</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/9c741b928a691fd6aac0a7237a6be1308550e59f#diff-db8f629adc6c4c33f29613cfb71a6038">JavaScript</a>.
 
+### Day 14: January 18, 2017
 
+**Today's Progress**: Today I just about finished all the styling for the tablet-and-up versions. Now I have to add the functionality and content.
+
+**Thoughts**: Tired but satisfied with my progress.
+
+**Link(s) to work**:<a href="https://github.com/frmysantana/Personal_Site/commit/b240bec393482c8de176637ee2afeb4c0fc66b99#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated HTML</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/97469ac91cb0b250bb8cddee2332c890a43cdb07#diff-4e7bb40584b55a44f4657b188986bff4">Updated CSS</a>.
