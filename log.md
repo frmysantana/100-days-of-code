@@ -64,7 +64,7 @@
 
 **Link(s) to work**:<a href="https://github.com/frmysantana/JavaScript_Calculator/commit/93bb7f439e7bea57bfa22218ae3034a79801aae8#diff-d5fdf20a4f2a28db4d54bb5bdfde8494">Updated HTML</a>,<a href="https://github.com/frmysantana/JavaScript_Calculator/commit/7b81025941dc464d3951f39e65e34d3c96415e06#diff-d1bc7d3194e9fbf926127958ad9c5698">Updated CSS</a>, <a href="https://github.com/frmysantana/JavaScript_Calculator/commit/cfee41a1c39583a409915aa956320056489354b1#diff-2bf9b566d3a19c340b4732d241c40dfd">Updated JavaScript<a>.
 
-### Day 8: January 11, 2017
+### Day 8: January 11, 2018
 
 **Today's Progress**: I tried adding in some styling. I also wanted to change the layout of the top row of buttons and decided to add a button in order to move the '/' operation to the top row. However, the layout is now just off.
 
@@ -72,7 +72,7 @@
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/JavaScript_Calculator/commit/215fe684f3a566e41f9eeca9a271276caa69cc73#diff-d5fdf20a4f2a28db4d54bb5bdfde8494">Updated HTML</a>. <a href="https://github.com/frmysantana/JavaScript_Calculator/commit/3a82d4b9621fb2468c9af0f48b23d5913c215c62#diff-d1bc7d3194e9fbf926127958ad9c5698">Updated CSS</a>.
 
-### Day 9: January 12, 2017
+### Day 9: January 12, 2018
 
 **Today's Progress**: I fixed the layout and styling issues and set up an event listener on the +/- button. Tomorrow I'll get it working, simplify the code, and add comments. By then the project should pretty much be done. 
 
@@ -80,7 +80,7 @@
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/JavaScript_Calculator/commit/2d745b37ee9caa410504cc15fb9878c1bc6aca39#diff-d5fdf20a4f2a28db4d54bb5bdfde8494">Updated HTML</a>. <a href="https://github.com/frmysantana/JavaScript_Calculator/commit/d657dcd2e7f6c150c82fedee0c7cad6b586556be#diff-d1bc7d3194e9fbf926127958ad9c5698">Updated CSS</a>. <a href="https://github.com/frmysantana/JavaScript_Calculator/commit/7129720e29bc75fe539a80c83aeb2a78bffca22e#diff-2bf9b566d3a19c340b4732d241c40dfd">Updated JS</a>.
 
-### Day 10: January 14, 2017
+### Day 10: January 14, 2018
 
 **Today's Progress**: Yesterday was very hectic and busy, so I took a day off from coding. Today I finished the functionality of the Javascript Calculator and simplified and commented the code.
 
@@ -88,7 +88,7 @@
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/JavaScript_Calculator/commit/9186acea3c5cd8ae24e962f940f05d9a1587b9c9#diff-2bf9b566d3a19c340b4732d241c40dfd"> Updated Javascript. </a>
 
-### Day 11: January 15, 2017
+### Day 11: January 15, 2018
 
 **Today's Progress**: Today I started coding my portfolio page.
 
@@ -96,7 +96,7 @@
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/4b4342c5e6466a8ee0534b6890bf343ebacec1ab">Site Html</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/ebf7dbde19316e0f15103d6e6bafd32c4b933103#diff-4e7bb40584b55a44f4657b188986bff4">Site Css</a>.
 
-### Day 12: January 16, 2017
+### Day 12: January 16, 2018
 
 **Today's Progress**: Today I continued with my website. I'm mainly trying to get the site to match the mobile design. Then I will match the desktop design and finally add the functionality.
 
@@ -104,7 +104,7 @@
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/5eb57f78afb1d6f2d90f80a2b3d832d75694c582#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated HTML</a>.<a href="https://github.com/frmysantana/Personal_Site/commit/226dd4ae2c4e3128090fafac625169d4ffb73012#diff-4e7bb40584b55a44f4657b188986bff4"> Updated Css</a>.
 
-### Day 13: January 17, 2017
+### Day 13: January 17, 2018
 
 **Today's Progress**: Today I finished the code for the mobile version, I think. I write "I think", because so far I've only been testing the output on the browser on my laptop and changing the window size to what Bootstrap considers mobile size (less than 768 px). In a little bit, I'll check if it works on mobile. Tomorrow I'll do the tablet-and-up design (which is the desktop design), thus leaving me 2-3 days to flesh out the functionality and content.
 
@@ -114,10 +114,34 @@ Update: I just looked at the HTML preview of my site on mobile, and the layout w
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/3f7ddc37ae44656b2bb0323ed748f7dff32ba342#diff-eacf331f0ffc35d4b482f1d15a887d3b">HTML</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/129d2909c5fe02e076b0e4ba46e98a21edc22fc7#diff-4e7bb40584b55a44f4657b188986bff4">Updated CSS</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/9c741b928a691fd6aac0a7237a6be1308550e59f#diff-db8f629adc6c4c33f29613cfb71a6038">JavaScript</a>.
 
-### Day 14: January 18, 2017
+### Day 14: January 18, 2018
 
 **Today's Progress**: Today I just about finished all the styling for the tablet-and-up versions. Now I have to add the functionality and content.
 
 **Thoughts**: Tired but satisfied with my progress.
 
 **Link(s) to work**:<a href="https://github.com/frmysantana/Personal_Site/commit/b240bec393482c8de176637ee2afeb4c0fc66b99#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated HTML</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/97469ac91cb0b250bb8cddee2332c890a43cdb07#diff-4e7bb40584b55a44f4657b188986bff4">Updated CSS</a>.
+
+### Day 15: January 19, 2018
+
+**Today's Progress**: I was mainly trying to get the contact form at the end of the page to be working. Not sure if it does, but I think it's time I move onto putting the rest of the functionality to the project images.
+
+**Thoughts**: I think this feature may have to be added to a future version of my site, for I just started to realize that I would probabaly need to do some sort of validating and other security precautions that I don't know of right now.
+
+**Link(s) to work**: N/A. I forgot to update github the day that I did this, so my code has changes reflecting other features.
+
+### Day 16: January 20, 2018
+
+**Today's Progress**: Today I was trying to confiure my desktop to have wordpress so that I could start learning that. Unfortunately, after getting Flywheel and trying to setup a default site to make sure that it is working, the page could not load. I'll have to troubleshoot this another time.
+
+**Thoughts**: I feel a bit frustrated that Flywheel gave me a few issues, but that's probably a common theme in IT/Software Development, so I just have to become accustomed to this.
+
+**Link(s) to work**: N/A.
+
+### Day 17: January 21, 2018
+
+**Today's Prgress**: I went back to my portfolio and played with jQuery to see if I can make each project image display a short description when the user clicks on it. I made some progress, but it's not complete yet, so I'll continue it tomorrow.
+
+**Thoughts**: Once again, it feels strangely relaxing to work on this stuff, even if I don't completely figure something out in the timespace I had planned to.
+
+**Link(s) to work**: <a href="">Updated HTML</a>. <a href="">Updated CSS</a>. <a href="">Updated JavaScript</a>. These updates also show the stuff I added to the form section when I was trying to get it to work.
