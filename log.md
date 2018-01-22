@@ -144,4 +144,4 @@ Update: I just looked at the HTML preview of my site on mobile, and the layout w
 
 **Thoughts**: Once again, it feels strangely relaxing to work on this stuff, even if I don't completely figure something out in the timespace I had planned to.
 
-**Link(s) to work**: <a href="">Updated HTML</a>. <a href="">Updated CSS</a>. <a href="">Updated JavaScript</a>. These updates also show the stuff I added to the form section when I was trying to get it to work.
+**Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/1dd008a120be14407f954a2dfe24bd6295922090#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated HTML</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/d0577a8e433a5f0d39660ecc9677ec9ca96a115a#diff-4e7bb40584b55a44f4657b188986bff4">Updated CSS</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/257251732714d9ab1f4c49ca472f8e582bb560cc#diff-db8f629adc6c4c33f29613cfb71a6038">Updated JavaScript</a>. These updates also show the stuff I added to the form section when I was trying to get it to work.
