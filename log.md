@@ -145,3 +145,11 @@ Update: I just looked at the HTML preview of my site on mobile, and the layout w
 **Thoughts**: Once again, it feels strangely relaxing to work on this stuff, even if I don't completely figure something out in the timespace I had planned to.
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/1dd008a120be14407f954a2dfe24bd6295922090#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated HTML</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/d0577a8e433a5f0d39660ecc9677ec9ca96a115a#diff-4e7bb40584b55a44f4657b188986bff4">Updated CSS</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/257251732714d9ab1f4c49ca472f8e582bb560cc#diff-db8f629adc6c4c33f29613cfb71a6038">Updated JavaScript</a>. These updates also show the stuff I added to the form section when I was trying to get it to work.
+
+### Day 18: January 22, 2018
+
+**Today's Progress**: I improved the toggle feature on the portfolio. Now the other projects at least return once the selected project is clicked on again. I also added mock project descriptions onto the other projects, and dead links that will take the user to the htmlpreview version of the project once the final content is up. I have to find a way to store the original classes of each project so that the toggle feature returns the images to their original styling. Then I have to get the feature to work on mobile and find a way to choose the right code depending on the viewport width.
+
+**Thoughts**: At first I felt pretty overwhelmed and lost, but by the end I felt pretty good about my chances to finish this portfolio page.
+
+**Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/8c9312f9dc8645f08e0b082bf1217187197fe733#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated HTML</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/6ea8bd106fb873e7173f789bcdfda13de486a005#diff-4e7bb40584b55a44f4657b188986bff4">Updated CSS</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/b4f8fe88ad4e355027faa7c79c74cd3a432ac4e7#diff-db8f629adc6c4c33f29613cfb71a6038">Updated JavaScript</a>.
