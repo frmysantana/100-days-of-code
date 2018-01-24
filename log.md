@@ -153,3 +153,22 @@ Update: I just looked at the HTML preview of my site on mobile, and the layout w
 **Thoughts**: At first I felt pretty overwhelmed and lost, but by the end I felt pretty good about my chances to finish this portfolio page.
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/8c9312f9dc8645f08e0b082bf1217187197fe733#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated HTML</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/6ea8bd106fb873e7173f789bcdfda13de486a005#diff-4e7bb40584b55a44f4657b188986bff4">Updated CSS</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/b4f8fe88ad4e355027faa7c79c74cd3a432ac4e7#diff-db8f629adc6c4c33f29613cfb71a6038">Updated JavaScript</a>.
+
+### Day 19: January 23, 2018
+
+**Today's Progress**: The toggle feature now works on both tablet-and-up and mobile versions. I also hid the labels from appearing on the page, since the original design has the labels inside the inputs. Lastly, I began ordering the CSS declarations, adding comments, and changing some of the names to be more descriptive.
+
+**Thoughts**: After writing the progress that I made, I'm surprised that I was able to do this much in just an hour.
+
+**Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/255aef035eead7e125f3da140af6b393608aa940#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated HTML</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/934fa252a347239bcc802a646012dade5de6f7f3#diff-4e7bb40584b55a44f4657b188986bff4">Updated CSS</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/d9600ca376360e4c6818908310cae9d78fc198d3#diff-db8f629adc6c4c33f29613cfb71a6038">Updated JavaScript</a>.
+
+
+### Day 20: January 24, 2018
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
