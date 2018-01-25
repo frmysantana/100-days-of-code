@@ -165,10 +165,10 @@ Update: I just looked at the HTML preview of my site on mobile, and the layout w
 
 ### Day 20: January 24, 2018
 
-**Today's Progress**:
+**Today's Progress**: Added some transitions/jQuery animations so that the changes in layout when selecting/unselecting a project aren't instantaneous. However, it has led to a bug where changes in one layout may effect the other layout if one changes the screen size before setting everything back to normal.
 
-**Thoughts**:
+**Thoughts**: I at first thought that adding animations/transitions would be too hard for me right now, but it didn't actually take that long. While the animations don't look that good (especially when selecting a project from the right column on the tablet-and-up layout), I feel that it still makes the page better, so I'm sticking with them. When I learn CSS animations in more depth, I'll definitely come back to this to improve them.
 
-**Link(s) to work**:
+**Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/8f1676e958e7b0f543693304f32c433b0c8b079d#diff-4e7bb40584b55a44f4657b188986bff4">Updated CSS</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/18b0bcbd63fed5fade9069295d1e9cfebb845d4a#diff-db8f629adc6c4c33f29613cfb71a6038">Updated JavaScript</a>.
 
 
