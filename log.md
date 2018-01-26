@@ -171,4 +171,16 @@ Update: I just looked at the HTML preview of my site on mobile, and the layout w
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/8f1676e958e7b0f543693304f32c433b0c8b079d#diff-4e7bb40584b55a44f4657b188986bff4">Updated CSS</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/18b0bcbd63fed5fade9069295d1e9cfebb845d4a#diff-db8f629adc6c4c33f29613cfb71a6038">Updated JavaScript</a>.
 
+### Day 21: January 25, 2018
+
+**Today's Progress**: Today I started adding in the final content to my portfolio. In order to do this, however, I also had to fix/take note of several issues on some of the projects that I wanted to put on it. I also was trying to fix the issue with changes in one layout breaking the other layout, but wasn't able to make much progress.
+
+**Thoughts**: After being contacted by an employer that I applied to last week, I am far more motivated to complete this portfolio, so I feel confident that I'll get past these hurdles I'm currently facing.
+
+**Link(s) to work**: <a href="https://github.com/frmysantana/RandomQuoteMachine/commit/fc725cf681ca532ab4d7af9d2d2e277df0123e07#diff-71824babfc3393d68acc01a4c63a3e51"> Updated Random Quote Machine CSS.</a>
+<a href="https://github.com/frmysantana/WikipediaViewer/commit/9d7fa8bf1f23fe04ee6840495f65f21e0fd9a52e#diff-2dcb5c06c1c857ea8763117be2de3036">Updated Wikipedia Viewer CSS</a>.
+<a href="https://github.com/frmysantana/Personal_Site/commit/299658eec08c6309d8b3c8ee10695457b3725c62#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated Portfolio HTML</a>.
+<a href="https://github.com/frmysantana/Personal_Site/commit/9a171ec063d8937090180ab61fe697a29e60ae20#diff-4e7bb40584b55a44f4657b188986bff4">Updated Portfolio CSS</a>.
+<a href="https://github.com/frmysantana/Personal_Site/commit/e665ca323a70adc9b430e5851c61da969fd47b6e#diff-db8f629adc6c4c33f29613cfb71a6038">Updated Portfolio JavaScript</a>.
+<a href="https://github.com/frmysantana/Personal_Site/commit/aeef172d40dbf2dbebe14ff223bc27cdaa5698c0#diff-9aedeaf1f77b8642abe528503b8c5de8">New Portfolio images</a>.
 
