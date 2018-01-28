@@ -184,3 +184,18 @@ Update: I just looked at the HTML preview of my site on mobile, and the layout w
 <a href="https://github.com/frmysantana/Personal_Site/commit/e665ca323a70adc9b430e5851c61da969fd47b6e#diff-db8f629adc6c4c33f29613cfb71a6038">Updated Portfolio JavaScript</a>.
 <a href="https://github.com/frmysantana/Personal_Site/commit/aeef172d40dbf2dbebe14ff223bc27cdaa5698c0#diff-9aedeaf1f77b8642abe528503b8c5de8">New Portfolio images</a>.
 
+### Day 22: January 26, 2018
+
+**Today's Progress**: I figured out how to use MediaQueryList to get my portfolio to reload whenever the viewport crosses the 768px width boundary. This at least gets around the layout issue I struggled with yesterday.
+
+**Thoughts**: I feel really happy that I was able to get around this layout problem.
+
+**Link(s) to work**: See tomorrow's links, for I forgot to update GitHub before continuing to change the code.
+
+### Day 23: January 27, 2018
+
+**Today's Progress**: I reorganized the project layout on the page so that it is easier to add projects in the future. I also finished alphabetizing the selectors and declarations in the styles.css file. Finally, I continued adding to the project descriptions.
+
+**Thoughts**: I didn't feel like doing anything today, but I reminded myself that days like today are the most important when it comes to establishing a habit, thus willing myself to do at least some coding. To be frank, I think it was only about 45 minutes instead of the full hour, but at least it is something.
+
+**Link(s) to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/b31a795d76de43788e0a956be0cb6dd4c9655d43#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated HTML</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/a17507096b0eac5e1e7a0c87048181018462f26b#diff-4e7bb40584b55a44f4657b188986bff4">Updated CSS</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/bd9ab6e2c8c0e6fffb6f7d822e565199ce5985a8#diff-db8f629adc6c4c33f29613cfb71a6038">Updated Javascript</a>.
