@@ -186,7 +186,7 @@ Update: I just looked at the HTML preview of my site on mobile, and the layout w
 
 ### Day 22: January 26, 2018
 
-**Today's Progress**: I figured out how to use MediaQueryList to get my portfolio to reload whenever the viewport crosses the 768px width boundary. This at least gets around the layout issue I struggled with yesterday.
+**Today's Progress**: I figured out how to use MediaQueryList to get my portfolio to reload whenever the viewport crosses the 768px width boundary. This at least gets around the layout issue I struggled with yesterday. I also decided to get rid of the form element, as it didn't actually work. I'll add in a working form element as part of the next version of my site.
 
 **Thoughts**: I feel really happy that I was able to get around this layout problem.
 
