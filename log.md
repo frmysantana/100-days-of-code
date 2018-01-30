@@ -206,4 +206,14 @@ Update: I just looked at the HTML preview of my site on mobile, and the layout w
 
 **Thoughts**: I think I caught the flu today, but I didn't let that get in my way! Almost done with the portfolio!
 
-**Link to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/ad9d4318179f224e711a8932edaefd346f087d59#diff-eacf331f0ffc35d4b482f1d15a887d3b"> Updated HTML.</a>
+**Link to work**: HTML: <a href="https://github.com/frmysantana/Personal_Site/commit/ad9d4318179f224e711a8932edaefd346f087d59#diff-eacf331f0ffc35d4b482f1d15a887d3b">First Commit</a>. Second Commit. Third Commit.
+
+### Day 25: January 29, 2018
+
+**Today's Progress**: Today I fixed the functionality issues that I was having before. After having a friend look over the portfolio page, there are some minor tweaks that he suggested, but I should be able to have the page completed and live on the web by tomorrow.
+
+**Thoughts**: I'm feeling very happy that I'm almost done with this!
+
+**Link(s) to work**: HTML: <a href="https://github.com/frmysantana/Personal_Site/commit/dd92a98e482683159e477e6e83b998600938f924#diff-eacf331f0ffc35d4b482f1d15a887d3b">First Commit</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/313a6254092b17322602654eb2d16c521341e57c#diff-eacf331f0ffc35d4b482f1d15a887d3b"> Second commit</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/ff83234eccd3d514c2b29007b9db2de4f8e37279#diff-eacf331f0ffc35d4b482f1d15a887d3b">Third commit</a>.
+<a href="https://github.com/frmysantana/Personal_Site/commit/e42bcbfc12f7ca50f207479e396a313699eddd90#diff-4e7bb40584b55a44f4657b188986bff4"> Updated CSS</a>. 
+JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439747d2ec935089b2f45454e9cba8c7a0ae#diff-db8f629adc6c4c33f29613cfb71a6038"> First Commit</a>. <a href="https://github.com/frmysantana/Personal_Site/commit/3f0da0aa9c720f968913bf3918bdacd67bc1f7d4#diff-db8f629adc6c4c33f29613cfb71a6038">Second Commit.</a>
