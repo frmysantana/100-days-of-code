@@ -241,3 +241,11 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Thoughts**: Another day where I didn't feel like coding. However, I got more into it as I actually started to work on the project.
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/68872ab902241697c9552d8838e732b2505ad506#diff-4e7bb40584b55a44f4657b188986bff4">Starting JavaScript</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/a0b6c8434ecc76de826d98f09d4c6260b8bf518e#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated HTML</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/caebee41dfc5d1253f98f1459cc39f42c547bd65#diff-4e7bb40584b55a44f4657b188986bff4">Updated CSS</a>.
+
+### Day 29: February 2, 2018
+
+**Today's Progress**: Today I got most of the functionality for the Pomodoro timer. The start and stop buttons now work, and the page transitions from the session timer to the break timer without any input from the user aside from responding to an alert. I also added more buttons so that the user can control the seconds portion of both the session and break times.
+
+**Thoughts**: Today was one of those days where a little bit of thinking led to steady progress with no major roadblocks. I love these days!
+
+**Link(s) to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/d3c13f7cf236eab7549674473c9c05cb0b64bd6c#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated HTML</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/86bdb857a8a5e0242f1f21dfa0db8c2c32b722f8#diff-db8f629adc6c4c33f29613cfb71a6038">Updated JavaScript</a>.
