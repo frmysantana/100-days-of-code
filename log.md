@@ -249,3 +249,11 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Thoughts**: Today was one of those days where a little bit of thinking led to steady progress with no major roadblocks. I love these days!
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/d3c13f7cf236eab7549674473c9c05cb0b64bd6c#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated HTML</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/86bdb857a8a5e0242f1f21dfa0db8c2c32b722f8#diff-db8f629adc6c4c33f29613cfb71a6038">Updated JavaScript</a>.
+
+### Day 30: February 3, 2018
+
+**Today's Progress**:  I added some more labels  so that the button controls were more transparent, and the middle display now switches between the session timer and break timer once the start button is pressed.
+
+**Thoughts**: I hit a massive roadblock today: once all of the JavaScript was pretty much done, I had no idea where I wanted to take this in terms of styling. I think I now see why it's recommended to design the final product first before you start coding.
+
+**Link(s) to work**:<a href="https://github.com/frmysantana/Pomodoro/commit/daa9dca0f2e061030d5cffd7815f03375c37d765#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated HTML</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/7c26374e2f74cf8f32405d2e65d1ee47efe634ce#diff-4e7bb40584b55a44f4657b188986bff4">Updated CSS</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/038b7dcc4dc02a08fe22eac441814b1739f04970#diff-db8f629adc6c4c33f29613cfb71a6038"> Updated JavaScript.</a>
