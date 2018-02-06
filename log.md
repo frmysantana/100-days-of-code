@@ -257,3 +257,11 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Thoughts**: I hit a massive roadblock today: once all of the JavaScript was pretty much done, I had no idea where I wanted to take this in terms of styling. I think I now see why it's recommended to design the final product first before you start coding.
 
 **Link(s) to work**:<a href="https://github.com/frmysantana/Pomodoro/commit/daa9dca0f2e061030d5cffd7815f03375c37d765#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated HTML</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/7c26374e2f74cf8f32405d2e65d1ee47efe634ce#diff-4e7bb40584b55a44f4657b188986bff4">Updated CSS</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/038b7dcc4dc02a08fe22eac441814b1739f04970#diff-db8f629adc6c4c33f29613cfb71a6038"> Updated JavaScript.</a>
+
+### Day 31: February 5, 2018
+
+**Today's Progress**: Because I felt directionless with where to take the Pomodoro page now, I spent today coming up with a design to strive for. It is very basic, but concrete enough that I think I can fill in the rest while restructuring the code to match the design.
+
+**Thoughts**: As I was doing this, it struck me how I was coming up with a much more streamlined interface than what I had cobbled together when I skipped designing to go straight into coding. Now I REALLY see why it's suggested to spend some time on the design (even if it is rough) before you start coding. It's like brainstorming/outlining an essay before you start writing.
+
+**Link to work**: <a href="https://github.com/frmysantana/Pomodoro/blob/master/Pomodoro_Mobile_Design.png">Pomodoro Design</a>.
