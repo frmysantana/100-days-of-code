@@ -265,3 +265,11 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Thoughts**: As I was doing this, it struck me how I was coming up with a much more streamlined interface than what I had cobbled together when I skipped designing to go straight into coding. Now I REALLY see why it's suggested to spend some time on the design (even if it is rough) before you start coding. It's like brainstorming/outlining an essay before you start writing.
 
 **Link to work**: <a href="https://github.com/frmysantana/Pomodoro/blob/master/Pomodoro_Mobile_Design.png">Pomodoro Design</a>.
+
+### Day 32: February 6, 2018
+
+**Today's Progress**: Today I decided that since I would have to rewrite the code for the Pomodoro App anyway, I might as well do it using React as a way to demonstrate that I can use React.
+
+**Thoughts**: Progress was a bit slow as I was remembering how React worked, but I was still able to make some.
+
+**Link to work**: <a href="https://codepen.io/frmysantana/pen/oEzdzm?editors=0010">CodePen of the page so far.</a>.
