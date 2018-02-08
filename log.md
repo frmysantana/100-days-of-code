@@ -273,3 +273,11 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Thoughts**: Progress was a bit slow as I was remembering how React worked, but I was still able to make some.
 
 **Link to work**: <a href="https://codepen.io/frmysantana/pen/oEzdzm?editors=0010">CodePen of the page so far.</a>.
+
+### Day 33: February 7, 2018
+
+**Today's Progress**: Continued writing the React version of the Pomodoro App. I got the handleAdd and handleSub functions to start working to modify the time for the session length. However, I got stuck trying to get the app to change which timer length to modify.
+
+**Thoughts**: I feel like I didn't get very far today, but there were a few personal setbacks today. At least I did some stuff today.
+
+**Link to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/8056db86cef430e42fedfd4b31d04ed3017ea35f#diff-3e79c43b8e09ade854d05b4b1d68c65a">React code.</a>
