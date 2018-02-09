@@ -281,3 +281,11 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Thoughts**: I feel like I didn't get very far today, but there were a few personal setbacks today. At least I did some stuff today.
 
 **Link to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/8056db86cef430e42fedfd4b31d04ed3017ea35f#diff-3e79c43b8e09ade854d05b4b1d68c65a">React code.</a>
+
+### Day 34: February 8, 2018
+
+**Today's Progress**: I figured out how to get the app to change which timer length to modify, and what unit to modify. I also got the add and minus buttons to work. Later on I should add some limits to how short/long each timer can be. Tomorrow I try to get the start and stop buttons to work, at which point then I should migrate the code from CodePen to my local files and break up the app into component files and add in Webpack, babel, and all those other software that I learned about.
+
+**Thoughts**: Today felt more productive than yesterday, although I'm noticing that the code is getting very long for such little functionality. Most of this is due to copying and pasting the same code with minor tweaks and long if/else trees. I was wondering how I could DRY up the code and then remembered a JavaScript Design Patterns book. Maybe there'll be some useful tips in there.
+
+**Link to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/9d32a9fc1db560e559ce6fdcb9ef21127448dda8#diff-3e79c43b8e09ade854d05b4b1d68c65a">Updated React Code.</a>
