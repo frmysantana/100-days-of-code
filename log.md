@@ -289,3 +289,11 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Thoughts**: Today felt more productive than yesterday, although I'm noticing that the code is getting very long for such little functionality. Most of this is due to copying and pasting the same code with minor tweaks and long if/else trees. I was wondering how I could DRY up the code and then remembered a JavaScript Design Patterns book. Maybe there'll be some useful tips in there.
 
 **Link to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/9d32a9fc1db560e559ce6fdcb9ef21127448dda8#diff-3e79c43b8e09ade854d05b4b1d68c65a">Updated React Code.</a>
+
+### Day 35: February 9, 2018
+
+**Today's Progress**: I began trying to make the start button work. Didn't get very far.
+
+**Thoughts**: Today I had to take care of several personal matters, so I couldn't do much programming (only about 30 minutes), hence why I didn't get very far. Hopefully tomorrow I can do more.
+
+**Link to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/56386c710fa01159b7e98c574d5db775d2611bfe#diff-3e79c43b8e09ade854d05b4b1d68c65a">Updated React</a>.
