@@ -297,3 +297,11 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Thoughts**: Today I had to take care of several personal matters, so I couldn't do much programming (only about 30 minutes), hence why I didn't get very far. Hopefully tomorrow I can do more.
 
 **Link to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/56386c710fa01159b7e98c574d5db775d2611bfe#diff-3e79c43b8e09ade854d05b4b1d68c65a">Updated React</a>.
+
+### Day 36: February 10, 2018
+
+**Today's Progress**: Today I got the buttons to work as I originally intended. This completes the basic functionality, so now I can import the code from CodePen and turn it into a web app with webpack, babel, sass, etc.
+
+**Thoughts**: I'm quite pleased with my progress today, especially after barely being able to do anything yesterday. 
+
+**Link to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/349c78ad2023315f9309ff2cd697923cabbc9532#diff-3e79c43b8e09ade854d05b4b1d68c65a">Updated React.</a>
