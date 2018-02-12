@@ -305,3 +305,11 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Thoughts**: I'm quite pleased with my progress today, especially after barely being able to do anything yesterday. 
 
 **Link to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/349c78ad2023315f9309ff2cd697923cabbc9532#diff-3e79c43b8e09ade854d05b4b1d68c65a">Updated React.</a>
+
+### Day 37: February 11, 2018
+
+**Today's Progress**: Up until now, the react code I had written was on CodePen.io, for they can easily set up babel. Since that script had completed most of the functionality of the app that I wanted, I decided it was time to take the code from codepen and save it locally, along with all needed dependencies to host the page. So I spent today setting up all the needed dependencies (webpack, babel, react, react-dom, babel's presets, sass and babel loaders for webpack, etc.) that I learned about from Andrew Mead's 'The Complete React Web Developer Course' on Udemy. I also split up the components into their own files.
+
+**Thoughts**: Once again, I'm quite pleased with my progress today. Even though I didn't write much code, I was able to review dependency management for React and figure out some bugs that I had.
+
+**Link to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/7c4b2e93442cb9a5b087aaad775b7092f06c34b2#diff-ebb78bb9577ed68779b04e6ab6125304">Full React Version.</a> <a href="https://github.com/frmysantana/Pomodoro/commit/e61b1526f9b471a5a0345d1d33966268c987c507#diff-ebb78bb9577ed68779b04e6ab6125304">Babel config file.</a>
