@@ -320,4 +320,20 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 
 **Thoughts**: I feel good about today. I think I can have the styling done by tomorrow. After that, a bit more functionality has to be added before I can then focus on cleaning up the code and adding comments. Hopefully this project can be done by the end of the week. Then I have to figure out how to deploy it.
 
-**Link(s) to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/71f0e7a57cf15a8fa0f63a38e2daa5d5313d56e5#diff-7dfec4b96232f342c7aa52c0c913b984">Updated app.js</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/d5e6ce9cefbd35f449beaf5b22675c62f0b239c0#diff-7dfec4b96232f342c7aa52c0c913b984">Styles</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/fd124db97580658d4e25afef3d9231c05a49c1b0#diff-7dfec4b96232f342c7aa52c0c913b984">Updated PomodoroClock component</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/7bc6d1b2f87bd07a2958fb0cceba0cb7e2d22e2f#diff-7dfec4b96232f342c7aa52c0c913b984">Updated Options component</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/a022508254ee23c7f30e7f08c61ab7b765beccc4#diff-7dfec4b96232f342c7aa52c0c913b984">Updated Display component</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/b6ecc2e5bcf1eeb807b3dec5d08340adc771d653#diff-7dfec4b96232f342c7aa52c0c913b984">Updated Adjust component</a>. 
+**Link(s) to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/71f0e7a57cf15a8fa0f63a38e2daa5d5313d56e5#diff-7dfec4b96232f342c7aa52c0c913b984">Updated app.js</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/d5e6ce9cefbd35f449beaf5b22675c62f0b239c0#diff-7dfec4b96232f342c7aa52c0c913b984">Styles</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/fd124db97580658d4e25afef3d9231c05a49c1b0#diff-7dfec4b96232f342c7aa52c0c913b984">Updated PomodoroClock component</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/7bc6d1b2f87bd07a2958fb0cceba0cb7e2d22e2f#diff-7dfec4b96232f342c7aa52c0c913b984">Updated Options component</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/a022508254ee23c7f30e7f08c61ab7b765beccc4#diff-7dfec4b96232f342c7aa52c0c913b984">Updated Display component</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/b6ecc2e5bcf1eeb807b3dec5d08340adc771d653#diff-7dfec4b96232f342c7aa52c0c913b984">Updated Adjust component</a>.
+
+### Day 39: February 13, 2018
+
+**Today's Progress**: I spent today adding styles to the Pomodoro App. The mobile view now looks pretty close to the design.
+
+**Thoughts**: Usually I don't like styling things, but on this ocassion, it was actually kind of enjoyable.
+
+**Link(s) to work**: Lots of files would have to be updated, so I will now only update them once every 2-3 days until I learn enough of Git to be able to do this more quickly.
+
+### Day 40: Frebruary 14, 2018
+
+**Today's Progress**: I spent today writing a function that would adjust the classes on two elements depending on how the user interacted with the app. I made some progress, but it's not done yet, so I'll be continuing that tomorrow. 
+
+**Thoughts**: As I was researching how to complete this feature, I came across some other aspects and methods of React, so I now know that there are definitely other features to the framework/library that I have yet to work with. That's kind of exciting!
+
+**Link(s) to work**:
