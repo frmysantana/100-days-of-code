@@ -330,10 +330,28 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 
 **Link(s) to work**: Lots of files would have to be updated, so I will now only update them once every 2-3 days until I learn enough of Git to be able to do this more quickly.
 
-### Day 40: Frebruary 14, 2018
+### Day 40: February 14, 2018
 
 **Today's Progress**: I spent today writing a function that would adjust the classes on two elements depending on how the user interacted with the app. I made some progress, but it's not done yet, so I'll be continuing that tomorrow. 
 
 **Thoughts**: As I was researching how to complete this feature, I came across some other aspects and methods of React, so I now know that there are definitely other features to the framework/library that I have yet to work with. That's kind of exciting!
 
-**Link(s) to work**:
+**Link(s) to work**: Too many to include.
+
+### Day 41: February 15, 2018
+
+**Today's Progress**: Today I completed the function to adjust classes on two elements depending on how the user interacted with the app. I also found a way to style the inputs that represent the default settings when the page loads, so that the user is more aware of how the app is initially set up.
+
+**Thoughts**: I'm feeling pleased with how the app is coming along.
+
+### Days 42-44: February 16, 17, and 19, 2018
+
+**Progress**: These days were very hectic, hence why I'm writing about the progress all at once. I was able to set and enforce limits to the timers, created custom input styles for both the selected and disabled states, tweaked when the alert announcing the end of a timer appeared, and adjusted some general styles on the Pomodoro App.
+
+**Thoughts**: As stated before, these days were very busy, so I could only code for about 30 minutes each day, but I at least did something and for that I feel proud!
+
+### Day 45: February 20, 2018
+
+**Today's Progress**: Today I tried to include an audio element to sound an alarm when a timer ends. This only had limited success. As I was reading more about audio elements, I came across many cross-browser compatability issues, such as some browsers only using .ogg files instead of .mp3 files. I then remembered that there is a JavaScript library taht takes care of all (or at least most) of these issues for me: Howler.JS. Tomorrow I'll be trying that approach.
+
+**Thoughts**: I was feeling a bit exasperated as I coded today due to the issues in my code quality becomming more apparent. Soon I'll have to refactor the functions in the PomodoroClock.js Component file because they are getting out of hand.
