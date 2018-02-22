@@ -355,3 +355,9 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Today's Progress**: Today I tried to include an audio element to sound an alarm when a timer ends. This only had limited success. As I was reading more about audio elements, I came across many cross-browser compatability issues, such as some browsers only using .ogg files instead of .mp3 files. I then remembered that there is a JavaScript library taht takes care of all (or at least most) of these issues for me: Howler.JS. Tomorrow I'll be trying that approach.
 
 **Thoughts**: I was feeling a bit exasperated as I coded today due to the issues in my code quality becomming more apparent. Soon I'll have to refactor the functions in the PomodoroClock.js Component file because they are getting out of hand.
+
+### Day 46: February 21, 2018
+
+**Today's Progress**: Today I installed and started tinkering with HowlerJS. It's already working much better than the audio elements from yesterday, so I'll be sticking with it. Tomorrow I continue to adjust it.
+
+**Thoughts**: Once again, it was a pretty busy day for me, but I'm happy that I still did some coding.
