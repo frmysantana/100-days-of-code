@@ -361,3 +361,11 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Today's Progress**: Today I installed and started tinkering with HowlerJS. It's already working much better than the audio elements from yesterday, so I'll be sticking with it. Tomorrow I continue to adjust it.
 
 **Thoughts**: Once again, it was a pretty busy day for me, but I'm happy that I still did some coding.
+
+### Day 47: February 22, 2018
+
+**Today's Progress**: Today I finished setting up Howler to work the way I wanted it too. I also tweaked the styling to look better across screen widths.
+
+**Thoughts**: Tired, but satisfied.
+
+**Link(s) to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/42032cffa501a90ee0cafa1fc90949ca5b8ffe35#diff-872934973e0a52c22de87d3df9220a66">Updated PomodoroClock Component</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/5df553e9a9fa3fa993a7e5aeea73a1e76c7bda3a#diff-25297cc51c9372ffef5e42ab836cf135">Updated Options Styles</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/98c0e36283c8b9d62b2ca2126b10452415349ccf#diff-41f3ecdf1586fc7fc5dfe78f42987297">Updated Adjust styles</a>.
