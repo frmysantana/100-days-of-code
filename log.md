@@ -369,3 +369,9 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Thoughts**: Tired, but satisfied.
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/42032cffa501a90ee0cafa1fc90949ca5b8ffe35#diff-872934973e0a52c22de87d3df9220a66">Updated PomodoroClock Component</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/5df553e9a9fa3fa993a7e5aeea73a1e76c7bda3a#diff-25297cc51c9372ffef5e42ab836cf135">Updated Options Styles</a>. <a href="https://github.com/frmysantana/Pomodoro/commit/98c0e36283c8b9d62b2ca2126b10452415349ccf#diff-41f3ecdf1586fc7fc5dfe78f42987297">Updated Adjust styles</a>.
+
+### Days 48-50: February 23-25, 2018
+
+**Progress**: These days were spent refactoring the code. At this point, the app does pretty much everything that I wanted it to do. However, the functions in the PomodoroClock.js compononent are absurdly long for no good reason, as most of it is repitition. So I've been trying to trim them down so that the code is more DRY.
+  
+**Thoughts**: At first I had no idea how I was going to do this, but then I started to notice little things that could be done, which then allowed to realize more general repitions that could be reduced with ternary expressions. Now I feel more confident that I can DRY the code up.
