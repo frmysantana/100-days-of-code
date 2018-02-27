@@ -375,3 +375,13 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Progress**: These days were spent refactoring the code. At this point, the app does pretty much everything that I wanted it to do. However, the functions in the PomodoroClock.js compononent are absurdly long for no good reason, as most of it is repitition. So I've been trying to trim them down so that the code is more DRY.
   
 **Thoughts**: At first I had no idea how I was going to do this, but then I started to notice little things that could be done, which then allowed to realize more general repitions that could be reduced with ternary expressions. Now I feel more confident that I can DRY the code up.
+
+### Day 51: February 26, 2018
+
+**Today's Progress**: Today I think I'm about done refactoring the handleAdd and handleSub methods of PomodoroClock.js. The new method I came up with, changeTime(), should be able to do the jobs of both handleAdd and handleSub, with the help of two arrays that contain two functions each. However, I have not tested it yet. That will be what I do tomorrow. During this time I have also been reading ProGit to start using Git to manage all of the file changes for these projects, so tomorrow I should be updating the actual repository. 
+
+**Thoughts**: I feel very excited and proud of myself when I came up with my refactor! However, now I wonder if I abstracted it a bit too much.
+
+
+
+
