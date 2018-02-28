@@ -382,6 +382,12 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 
 **Thoughts**: I feel very excited and proud of myself when I came up with my refactor! However, now I wonder if I abstracted it a bit too much.
 
+### Day 51: February 27, 2018
 
+**Today's Progress**: I debugged changeTime() so that the plus and minus buttons now work as they did before. The start button also begins the timer as it did before. Now I just have to refactor the portion that switched which timer is shown and alerts the user. I'm almost done with that as well. I have also begun to use Git to manage this project.
+
+**Thoughts**: I feel pretty good that these refactors are moving along swimmingly. I am also glad that I can use Git for these projects, though I will be writing these log updates manually, at least until I figure out how to do them through Git.
+
+**Link(s) to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/433df8c76d2913695ac89dc8405159bab7c05bfa#diff-872934973e0a52c22de87d3df9220a66">Updated PomodoroClock.js</a>. 
 
 
