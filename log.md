@@ -382,7 +382,7 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 
 **Thoughts**: I feel very excited and proud of myself when I came up with my refactor! However, now I wonder if I abstracted it a bit too much.
 
-### Day 51: February 27, 2018
+### Day 52: February 27, 2018
 
 **Today's Progress**: I debugged changeTime() so that the plus and minus buttons now work as they did before. The start button also begins the timer as it did before. Now I just have to refactor the portion that switched which timer is shown and alerts the user. I'm almost done with that as well. I have also begun to use Git to manage this project.
 
