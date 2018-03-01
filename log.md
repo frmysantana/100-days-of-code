@@ -390,4 +390,10 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/433df8c76d2913695ac89dc8405159bab7c05bfa#diff-872934973e0a52c22de87d3df9220a66">Updated PomodoroClock.js</a>. 
 
+### Day 53: February 28, 2018
 
+**Today's Progress**: I finished refactoring the code that switched the displayed timer and alerted the user. However, I feel that the root component is still too long. The first thing I should do is comment the entire codebase, add in the Babel features that remove the need to bind a component's method's 'this' value to the component itself, and at that point explore if I can move the methods to one of the sub-components, or perhaps break them off into their own files.
+
+**Thoughts**: While I'm still happy with the progress that I've made, I realize that I still have a ways to go before this project can be completed. That doesn't bother me much, though.
+
+**Link(s) to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/a66251f81bec59188a3f5efae6fb72a1a2d9262a#diff-872934973e0a52c22de87d3df9220a66">Updated PomodoroClock.js</a>.
