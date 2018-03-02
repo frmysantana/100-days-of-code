@@ -397,3 +397,11 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Thoughts**: While I'm still happy with the progress that I've made, I realize that I still have a ways to go before this project can be completed. That doesn't bother me much, though.
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/a66251f81bec59188a3f5efae6fb72a1a2d9262a#diff-872934973e0a52c22de87d3df9220a66">Updated PomodoroClock.js</a>.
+
+### Day 54: February 29, 2018
+
+**Today's Progress**: Today I was contacted by a recruiting firm that puts its entry-level developers through an intensive training program. I was offered the chance for a technical interview if I learn the basics of Java, so I started doing that today. Consequently, I only had enough time to add comments to the PomodoroClock.js component. I'm still going to continue this project, but it will be at a slower pace.
+
+**Thoughts**: I am thankful for this opportunity. Now I have to work hard to see if I can get accepted, or at least get some good interviewing experience.
+
+**Link(s) to work**: <a href="https://github.com/frmysantana/Pomodoro/commits/master/fullReactVersion/src/Components/PomodoroClock.js"> Updated PomodoroClock.js</a>.
