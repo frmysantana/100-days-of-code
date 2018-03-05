@@ -413,3 +413,13 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Thoughts**: Although its only a little bit of progress, it is still progress, so I can't be too disappointed in this.
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/e969fee5bcad0371f17ede2c72e1bd3a58d4cea5#diff-ebb78bb9577ed68779b04e6ab6125304"> Updated Pomodoro Repository.</a>
+
+### Day 56: March 4, 2018
+
+**Today's progress**: Yesterday's changes broke the app, so the first things that I had to do was to fix it. After that was done, I refactored the root component so that it didn't need a constructor function, thanks to the transform-class-properties babel plugin.
+
+**Thoughts**: After refactoring the code, the root component still seems too long, so the only thing I can do now is move some (or all) of the functions to their own javascript files and export them into the root component.
+
+**Link(s) to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/3c7961bbb045ae43022fe1c4bf4abe63c1aa5c98#diff-ebb78bb9577ed68779b04e6ab6125304">Updated Pomodoro Repository</a>.
+
+
