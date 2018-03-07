@@ -422,4 +422,10 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 
 **Link(s) to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/3c7961bbb045ae43022fe1c4bf4abe63c1aa5c98#diff-ebb78bb9577ed68779b04e6ab6125304">Updated Pomodoro Repository</a>.
 
+### Days 57 + 58: March 5 and 6, 2018
+
+**Progress**: On these days, I separated changeTime and didTimeEnd methods into their own files to shorten the root componenets. They still need more adjusting, but the files at least communicate with each other and changeTime works as needed.
+
+**Link to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/a54df2e492780564ac7dabd417d9776a65d2e584#diff-caee6785a7d09b6183c46da1a868a55f"> Updated Pomodoro Repository</a>.
+
 
