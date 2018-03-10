@@ -428,4 +428,16 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 
 **Link to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/a54df2e492780564ac7dabd417d9776a65d2e584#diff-caee6785a7d09b6183c46da1a868a55f"> Updated Pomodoro Repository</a>.
 
+### Day 59: March 7, 2018
+
+**Progress**: Today I got the didTimeEnd method to work with changeTime. The root component is now only about 110 lines long, so I will leave it at this length (at least for now).
+
+**Thoughts**: I was first surprised that the function seemed to work so quickly. I just had to change the referenced variables to remove the 'this' from their name, and it worked. Then I remembered how JavaScript works with execution contexts and it all made sense.
+
+### Day 60: March 8, 2018
+
+**Progress**: Today I had to deal with an issue with Ubuntu. After it was fixed, I updated my portfolio page for a potential job interview.
+
+**Link to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/97a24da4f9af1011f52a18b16bd747b29793f925#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated Portfolio.</a> <a href="https://github.com/frmysantana/Personal_Site/commit/7933dd07c9c9b7048f34a9b2cdeb4faa43ae0382#diff-eacf331f0ffc35d4b482f1d15a887d3b">Modified Class.</a><a href="https://github.com/frmysantana/Personal_Site/commit/d356a4654cf3ab0f1c0c8087014363dff87395ac#diff-d66d3092c2df35e194c3ded669d67413"> Added picture.</a>
+
 
