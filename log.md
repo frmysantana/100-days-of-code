@@ -440,4 +440,6 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 
 **Link to work**: <a href="https://github.com/frmysantana/Personal_Site/commit/97a24da4f9af1011f52a18b16bd747b29793f925#diff-eacf331f0ffc35d4b482f1d15a887d3b">Updated Portfolio.</a> <a href="https://github.com/frmysantana/Personal_Site/commit/7933dd07c9c9b7048f34a9b2cdeb4faa43ae0382#diff-eacf331f0ffc35d4b482f1d15a887d3b">Modified Class.</a><a href="https://github.com/frmysantana/Personal_Site/commit/d356a4654cf3ab0f1c0c8087014363dff87395ac#diff-d66d3092c2df35e194c3ded669d67413"> Added picture.</a>
 
+### Day 61: March 9, 2018
 
+**Progress**: Today I continued the Andrew Mead course. At this point, the Pomodoro App is practically finished; I just have to deploy it. So I've returned to the course to explore more React features and learn how to deploy it. Right now I'm going through the React-Router section.
