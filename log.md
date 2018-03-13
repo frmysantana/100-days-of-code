@@ -447,3 +447,7 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 ### Days 61 + 62: March 10 & 11, 2018
 
 **Progress**: On these days I finished the React-Router section and am half-way through the Redux section. The next sections are 'React with Redux', 'Testing Your Application', and finally 'Deploying Your Apps'. Starting tomorrow, I will host a repo keeping the files of these courses, as a way of demonstrating that these were not off days for me, but study days.
+
+### Day 63: March 12, 2018
+
+**Progress**: I created the repos and uploaded the files from the React course here. I also went through about 5 videos in the Redux section, covering topics such as reducers, using combineReducers to handle mutiple reducers, and spread operators in ES6.
