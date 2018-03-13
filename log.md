@@ -444,10 +444,10 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 
 **Progress**: Today I continued the Andrew Mead course. At this point, the Pomodoro App is practically finished; I just have to deploy it. So I've returned to the course to explore more React features and learn how to deploy it. Right now I'm going through the React-Router section.
 
-### Days 61 + 62: March 10 & 11, 2018
+### Days 62 + 63: March 10 & 11, 2018
 
 **Progress**: On these days I finished the React-Router section and am half-way through the Redux section. The next sections are 'React with Redux', 'Testing Your Application', and finally 'Deploying Your Apps'. Starting tomorrow, I will host a repo keeping the files of these courses, as a way of demonstrating that these were not off days for me, but study days.
 
-### Day 63: March 12, 2018
+### Day 64: March 12, 2018
 
 **Progress**: I created the repos and uploaded the files from the React course here. I also went through about 5 videos in the Redux section, covering topics such as reducers, using combineReducers to handle mutiple reducers, and spread operators in ES6.
