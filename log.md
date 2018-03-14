@@ -450,4 +450,10 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 
 ### Day 64: March 12, 2018
 
-**Progress**: I created the repos and uploaded the files from the React course here. I also went through about 5 videos in the Redux section, covering topics such as reducers, using combineReducers to handle mutiple reducers, and spread operators in ES6.
+**Progress**: I created the repos and uploaded the files from the React course into a Courses repo here. I also went through about 5 videos in the Redux section, covering topics such as reducers, using combineReducers to handle mutiple reducers, and spread operators in ES6.
+
+### Day 65: March 13, 2018
+
+**Progress**: I went through 5 videos that showed how to create a selector that uses the props in one state prop to filter and sort the other state prop as well as seperating the redux components into their own files.
+
+### Day 66: March 14, 2018
