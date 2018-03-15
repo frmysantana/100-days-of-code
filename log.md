@@ -457,3 +457,11 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Progress**: I went through 5 videos that showed how to create a selector that uses the props in one state prop to filter and sort the other state prop as well as seperating the redux components into their own files.
 
 ### Day 66: March 14, 2018
+
+**Progress**: Today I only covered about 3 videos due to the challenges at the end of the videos taking me a long time to complete. Throughout those videos, though, I installed react-redux, set up the Provider component, and started setting up the expenses page. This includes creating several new components for the page, connecting them to the store through connect(), and setting up a filter field and remove buttons.
+
+**Thoughts**: I forgot how dense this course's videos were. It is obviously going to take me much longer than I first thought to get through the material, but I'll complete it as soon as I can.
+
+**Link to work**: <a href="https://github.com/frmysantana/Courses/commit/f2ab02975b3d6342847d47fdf2ca017faa6507d7#diff-50ce2da63bea6a618e7578fa50690040">Updated Expensify-app.</a>
+
+### Day 67: March 15, 2018
