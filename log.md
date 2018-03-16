@@ -465,3 +465,9 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Link to work**: <a href="https://github.com/frmysantana/Courses/commit/f2ab02975b3d6342847d47fdf2ca017faa6507d7#diff-50ce2da63bea6a618e7578fa50690040">Updated Expensify-app.</a>
 
 ### Day 67: March 15, 2018
+
+**Progress**: Today I went through 8 videos. Throughout these videos, I got the app to fully support creating new expenses and editing existing expenses. Support for redux dev tools was also added, as well as moment.js and react-dates to give the user a calendar widget to use for dates and to better work with dates programmatically. This marks the end of the 'React with Redux' section. Now just the 'Testing Your Application' and 'Deploying Your Apps' sections.
+
+**Thoughts**: By the end of this section, I was reminded of how important it is to be able to research library/3rd-party features by reading their documentation, as the ecosystem of libraries/frameworks/useful tools is vast.
+
+**Link to work**: <a href="https://github.com/frmysantana/Courses/commit/fc6a599918e60fb1f609c2c435eea7f704fc9341#diff-f023eebf47969cbee5f1b474c69bdf83">Updated Expensify-app.</a>
