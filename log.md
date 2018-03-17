@@ -471,3 +471,11 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Thoughts**: By the end of this section, I was reminded of how important it is to be able to research library/3rd-party features by reading their documentation, as the ecosystem of libraries/frameworks/useful tools is vast.
 
 **Link to work**: <a href="https://github.com/frmysantana/Courses/commit/fc6a599918e60fb1f609c2c435eea7f704fc9341#diff-f023eebf47969cbee5f1b474c69bdf83">Updated Expensify-app.</a>
+
+### Day 68: March 16, 2018
+
+**Progress**: I went through 9 videos of the "Testing Your Application" section, throughout which I set up Jest, created tests for the Redux files, set up Enzyme and started testing the React components through snapshots.
+
+**Thoughts**: Wow, this is a lot of information. I feel a bit overloaded, but as I practice the concepts they'll make a lot more sense.
+
+**Link to work**: <a href="https://github.com/frmysantana/Courses/commit/7dc453af9fb838ea1c2be0308182bb0cd92c0596#diff-50ce2da63bea6a618e7578fa50690040">Updated Expensify-app.</a>
