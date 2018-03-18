@@ -479,3 +479,11 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Thoughts**: Wow, this is a lot of information. I feel a bit overloaded, but as I practice the concepts they'll make a lot more sense.
 
 **Link to work**: <a href="https://github.com/frmysantana/Courses/commit/7dc453af9fb838ea1c2be0308182bb0cd92c0596#diff-50ce2da63bea6a618e7578fa50690040">Updated Expensify-app.</a>
+
+### Day 69: March 17, 2018
+
+**Progress**: I only went through 3 videos today. Through the course of these videos, I set up tests for NotFoundPage.js, ExpenseDashboardPage.js, ExpenseList.js, ExpenseListItem.js, and ExpenseForm.js, as well as a mock library for moment.js. Topics covered include taking snapshots of dynamic components, setting up mock libraries and how to simulate user interaction to test event handler functions.
+
+**Thoughts**: I think that I might try to incorporate testing into my Pomodoro App, because I have been seeing testing skills being asked for in job applications.
+
+**Link to work**: <a href="https://github.com/frmysantana/Courses/commit/9ee1c691b607b9b7f058471f82a64743b191bbfd#diff-50ce2da63bea6a618e7578fa50690040"> Updated Expensify-app.</a>
