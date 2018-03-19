@@ -487,3 +487,11 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Thoughts**: I think that I might try to incorporate testing into my Pomodoro App, because I have been seeing testing skills being asked for in job applications.
 
 **Link to work**: <a href="https://github.com/frmysantana/Courses/commit/9ee1c691b607b9b7f058471f82a64743b191bbfd#diff-50ce2da63bea6a618e7578fa50690040"> Updated Expensify-app.</a>
+
+### Day 70: March 18, 2018
+
+**Progress**: It was a fairly busy day, so I only got through 2 videos. I updated ExpenseForm and AddExpensePage and learned about test spies and the mapDispatchToProps optional argument for Redux's connect function.
+
+**Thoughts**:  Considering how long it's been taking me to go through this material, I am now not sure if I will implement tests on the Pomodoro App, especially since skills related to testing don't come up very often.
+
+**Link to work**: <a href="https://github.com/frmysantana/Courses/commit/93a13586cacb13dfc23ed97e8ded3b2a1a428fb8">Updated Expensify-app.</a>
