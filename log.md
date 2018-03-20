@@ -495,3 +495,11 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Thoughts**:  Considering how long it's been taking me to go through this material, I am now not sure if I will implement tests on the Pomodoro App, especially since skills related to testing don't come up very often.
 
 **Link to work**: <a href="https://github.com/frmysantana/Courses/commit/93a13586cacb13dfc23ed97e8ded3b2a1a428fb8">Updated Expensify-app.</a>
+
+### Day 71: March 19, 2018
+
+**Progress**: Finally finished the 'Testing Your Application' section! Tests for the last 2 components were created. The components themselves were also refactored a bit so that test spies could more easily be used (by using the mapDispatchToProps method to abstract the action generator calls).
+
+**Thoughts**: I am feeling very happy that this section is done, for I am now one step closer to finishing the course and my app.
+
+**Link to work**: <a href="https://github.com/frmysantana/Courses/commit/3e57b63bae78c0a44850e27f10b517f4ea28f2a5#diff-50ce2da63bea6a618e7578fa50690040">Updated Expesify-app.</a>
