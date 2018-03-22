@@ -503,3 +503,15 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Thoughts**: I am feeling very happy that this section is done, for I am now one step closer to finishing the course and my app.
 
 **Link to work**: <a href="https://github.com/frmysantana/Courses/commit/3e57b63bae78c0a44850e27f10b517f4ea28f2a5#diff-50ce2da63bea6a618e7578fa50690040">Updated Expesify-app.</a>
+
+### Day 72: March 20, 2018
+
+**Progress**: I deleted some of the dummy expenses in the app.js file and set up SSH keys for my laptop and github.
+
+**Link to work**: <a href="https://github.com/frmysantana/Courses/commit/e147fcf8698aaeac815919421df9b9539368ff33#diff-f023eebf47969cbee5f1b474c69bdf83">Updated Expensify app.</a>
+
+### Day 73: March 21, 2018
+
+**Progress**: Today I got through 4 videos. Throughout the videos, I altered the webpack.config file to have both a production and development version, installed a plugin that creates a separate css file and css source map in the public directory, created an Express server file, and got the application ready to be deployed on Heroku. The deployment itself failed, but I'll figure out what's wrong with it tomorrow.
+
+**Link to work**: <a href="https://github.com/frmysantana/Courses/commit/3e41faeb8d6af15f3db377ac72c91c401037de4c#diff-f023eebf47969cbee5f1b474c69bdf83">Updated Expensify app.</a>
