@@ -515,3 +515,11 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Progress**: Today I got through 4 videos. Throughout the videos, I altered the webpack.config file to have both a production and development version, installed a plugin that creates a separate css file and css source map in the public directory, created an Express server file, and got the application ready to be deployed on Heroku. The deployment itself failed, but I'll figure out what's wrong with it tomorrow.
 
 **Link to work**: <a href="https://github.com/frmysantana/Courses/commit/3e41faeb8d6af15f3db377ac72c91c401037de4c#diff-f023eebf47969cbee5f1b474c69bdf83">Updated Expensify app.</a>
+
+### Days 74-76: March 22-24
+
+**Progress**: First I had to find a way to get the Expensify-app to deploy to Heroku. Turns out the problem was that the root of the git repository (Courses/) didn't have the package.json file needed for Heroku to configure and build the app, so I copied the app folder to outside of the Courses/ folder and set up a new repository that only pushes to Heroku. This let me build the app. After that, I went through about 2 more videos that showed me how to further optimize the production and development builds. They also showed me the development lifecycle for an app like Expensify by improving an existing feature in the app.
+
+**Thoughts**: My progress was stymied these days by other personal responsibilities, but I am still working through this course, even if it is at a snail's pace.
+
+**Link(s) to work**: <a href="https://github.com/frmysantana/Courses/commit/992e62f21018783751c090b381faa24775484f3a">Expensify update 1.</a>
