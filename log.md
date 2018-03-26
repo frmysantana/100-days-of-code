@@ -522,4 +522,14 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 
 **Thoughts**: My progress was stymied these days by other personal responsibilities, but I am still working through this course, even if it is at a snail's pace.
 
-**Link(s) to work**: <a href="https://github.com/frmysantana/Courses/commit/992e62f21018783751c090b381faa24775484f3a">Expensify update 1.</a>
+**Link(s) to work**: <a href="https://github.com/frmysantana/Courses/commit/992e62f21018783751c090b381faa24775484f3a">Updated Expensify app.</a>
+
+### Day 77: March 25
+
+**Progress**: I finished the deployment section of the react course and got the new feature to work. Now I am returning to the Pomodoro app to integrate what I've learned about testing and deployment. I got Jest and Enzyme configured, moved some functions around and started testing one of the imported functions as well as the Options component.
+
+**Thoughts**: I'm glad I decided to integrate the testing material, for it turns out that there were some holes in my knowledge (and notes) when it came to installing all of the needed packages.
+
+**Links to work**: <a href="https://github.com/frmysantana/Courses/commit/a2bb88427056450092cdae3d9a024176297aacf1#diff-50ce2da63bea6a618e7578fa50690040">Updated Expensify app.</a>
+
+<a href="https://github.com/frmysantana/Pomodoro/commit/d6f76eb78dd1aaaa11587e6d3ffcdfbb06ad1ae8#diff-ebb78bb9577ed68779b04e6ab6125304"> Updated Pomodoro app.</a>
