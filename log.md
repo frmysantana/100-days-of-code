@@ -533,3 +533,15 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Links to work**: <a href="https://github.com/frmysantana/Courses/commit/a2bb88427056450092cdae3d9a024176297aacf1#diff-50ce2da63bea6a618e7578fa50690040">Updated Expensify app.</a>
 
 <a href="https://github.com/frmysantana/Pomodoro/commit/d6f76eb78dd1aaaa11587e6d3ffcdfbb06ad1ae8#diff-ebb78bb9577ed68779b04e6ab6125304"> Updated Pomodoro app.</a>
+
+### Day 78: March 26, 2018
+
+**Progress**: I finished testing the app today. I also removed all constructor function, converted the class methods into arrow functions, installed a babel plugin for the object spread operator, and replaced the '.' with a colon in the alert messages. 
+
+**Link to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/21914a0ddfa045fb32fca0a4685ddb3be8cd7e77#diff-ebb78bb9577ed68779b04e6ab6125304">Updated Pomodoro app.</a>
+
+### Day 79: March 27, 2018
+
+**Progress**:  Now with the testing done, I spent today optimizing the build for deployment and adding a server file. I also added a 'Designed by...' line.
+
+**Link to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/c291c47df5f1b63d18bd2c9815c9d49f0f8a1fe4#diff-ebb78bb9577ed68779b04e6ab6125304">Updated Pomodoro app.</a>
