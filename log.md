@@ -545,3 +545,9 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Progress**:  Now with the testing done, I spent today optimizing the build for deployment and adding a server file. I also added a 'Designed by...' line.
 
 **Link to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/c291c47df5f1b63d18bd2c9815c9d49f0f8a1fe4#diff-ebb78bb9577ed68779b04e6ab6125304">Updated Pomodoro app.</a>
+
+### Days 80-82: March 28-March 30
+
+**Progress**: I deployed the app but then noticed a small issue that I didn't think to code into the project (the app didn't keep track of which timer length the user was adjusting before they started the timer, so when the user stopped the timer, it defaulted to selecting the 'session' timer). After adding that into the project, I also tried to create a favicon for the page (with limited success). I am now trying to debug the alert message, which shows an odd message under a certain set of circumstances.
+
+**Link to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/66687b50896f04f117c14d25c69b3f3d29bcc84b">Updated Pomodoro.</a>
