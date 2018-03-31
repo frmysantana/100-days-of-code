@@ -548,6 +548,10 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 
 ### Days 80-82: March 28-March 30
 
-**Progress**: I deployed the app but then noticed a small issue that I didn't think to code into the project (the app didn't keep track of which timer length the user was adjusting before they started the timer, so when the user stopped the timer, it defaulted to selecting the 'session' timer). After adding that into the project, I also tried to create a favicon for the page (with limited success). I am now trying to debug the alert message, which shows an odd message under a certain set of circumstances.
+**Progress**: I deployed the app but then noticed a small issue that I didn't think to code into the project (the app didn't keep track of which timer length the user was adjusting before they started the timer, so when the user stopped the timer, it always defaulted to selecting the 'session' timer). After adding that into the project, I also created a favicon for the page and fixed a variable name error that was causing several bugs.
 
-**Link to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/66687b50896f04f117c14d25c69b3f3d29bcc84b">Updated Pomodoro.</a>
+**Link(s) to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/66687b50896f04f117c14d25c69b3f3d29bcc84b">Updated Pomodoro.</a>
+<a href="https://github.com/frmysantana/Pomodoro/commit/3f74181cb57890c4bfb7dd13d54bb7f701dc9e49#diff-ebb78bb9577ed68779b04e6ab6125304">Second update for the Pomodoro clock.</a>
+
+
+
