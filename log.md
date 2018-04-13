@@ -553,5 +553,9 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 **Link(s) to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/66687b50896f04f117c14d25c69b3f3d29bcc84b">Updated Pomodoro.</a>
 <a href="https://github.com/frmysantana/Pomodoro/commit/3f74181cb57890c4bfb7dd13d54bb7f701dc9e49#diff-ebb78bb9577ed68779b04e6ab6125304">Second update for the Pomodoro clock.</a>
 
+### Days 83-96 : March 31 - April 12
+
+**Progress**: There are still problems with the Pomodoro App, but I wanted to finish the React course, so these days were spent going through the 'Firebase 101', 'Firebase with Redux', 'Firebase Authentication', 'Styling Expensify', 'What Now?', and 'Upgrade Guides' sections. Now that the course is completed, I'm going back to the Pomodoro App to try and finish it before the end of this first round of 100 days.
+
 
 
