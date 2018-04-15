@@ -557,5 +557,8 @@ JavaScript: <a href="https://github.com/frmysantana/Personal_Site/commit/ac6c439
 
 **Progress**: There are still problems with the Pomodoro App, but I wanted to finish the React course, so these days were spent going through the 'Firebase 101', 'Firebase with Redux', 'Firebase Authentication', 'Styling Expensify', 'What Now?', and 'Upgrade Guides' sections. Now that the course is completed, I'm going back to the Pomodoro App to try and finish it before the end of this first round of 100 days.
 
+### Day 97 & 98: April 13, 15, 2018
 
+**Progress**: Fixed a decrementing issue where going from a time x:00 to (x-1):00 was outputting x:0-1 instead. Also refined when the error message is triggered and improved the format of the error message itself.
 
+**Link to work**: <a href="https://github.com/frmysantana/Pomodoro/commit/849e8a610dca1e4e276590a41c5f15613e0b581d#diff-ebb78bb9577ed68779b04e6ab6125304">Updated Pomodoro Clock.</a>
